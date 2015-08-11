@@ -1,5 +1,14 @@
+- content_for :head do
+  = stylesheet_link_tag '/teams.css'
+
 .container
   .row
     h1.page-header Score des équipes
 
   .row
+    - @teams.each do |team|
+      .col-sm-3 class="team team-#{team.to_param}"
+        .logo
+          = image_tag "logo_mask.png"
+        .details
+          h2= team.name

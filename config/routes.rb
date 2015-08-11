@@ -1,4 +1,6 @@
 Rails.application.routes.draw do
+  get '/teams' => "home#teams"
+
   # Application homepage
   root 'home#index'
 

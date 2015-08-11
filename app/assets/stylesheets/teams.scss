@@ -1,0 +1,34 @@
+.team {
+  .logo {
+    img {
+      width: 100%;
+    }
+  }
+
+  @media(max-width:767px) {
+    .logo {
+      width: 200px;
+      margin: 0 auto;
+    }
+  }
+
+  .details {
+    text-align: center;
+
+    h2 {
+      font-size: 60pt;
+    }
+
+    @media(max-width:1199px) {
+      h2 {
+        font-size: 40pt;
+      }
+    }
+
+    @media(max-width:991px) {
+      h2 {
+        font-size: 30pt;
+      }
+    }
+  }
+}

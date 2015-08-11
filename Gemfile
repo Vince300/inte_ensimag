@@ -51,6 +51,9 @@ gem 'simple_form'
 gem 'bootstrap-sass', '3.3.5'
 gem 'bootstrap-sass-extras'
 
+# Color manipulation
+gem 'chroma'
+
 # Misc
 gem 'tzinfo-data'
 

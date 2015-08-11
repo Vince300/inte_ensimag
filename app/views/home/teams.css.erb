@@ -1,0 +1,8 @@
+<% @teams.each do |team| %>
+.team-<%= team.to_param %> .logo {
+  background-color: <%= team.color %>
+}
+.team-<%= team.to_param %> .details {
+  color: <%= team.color.paint.darken(10).desaturate(15) %>
+}
+<% end %>

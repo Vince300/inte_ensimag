@@ -1,7 +1,7 @@
 require 'active_record/fixtures'
 
 # The list of classes to load
-class_names = [ :users ]
+class_names = [ :users, :teams ]
 
 # Find out the environment
 e = ENV['FIXTURES_ENV'] || Rails.env
