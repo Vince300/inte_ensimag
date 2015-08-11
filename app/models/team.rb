@@ -4,4 +4,8 @@ class Team < ActiveRecord::Base
   end
 
   has_many :rewards
+
+  def current_score
+    rewards.sum(:amount)
+  end
 end

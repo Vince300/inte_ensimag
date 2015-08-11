@@ -3,12 +3,25 @@
 
 .container
   .row
-    h1.page-header Score des équipes
+    h1.page-header
+      = image_tag "logo64.png", class: "logo"
+      | Score des équipes - Intégration Ensimag 2015
 
   .row
-    - @teams.each do |team|
+    - @teams.each_with_index do |team, i|
       .col-sm-3 class="team team-#{team.to_param}"
         .logo
           = image_tag "logo_mask.png"
         .details
           h2= team.name
+          .position= t("inte.position.#{i}")
+          .score= pluralize(team.current_score, "Point", "Points")
+
+  .row
+    h1.page-header Les dernières récompenses
+    ul.list-group
+      - @rewards.each do |reward|
+        li.list-group-item
+          = "#{pluralize(reward.amount, "point accordé", "points accordés")} aux "
+          span class="team-label-#{reward.team.to_param}" = reward.team.name
+          = " il y a #{time_ago_in_words(reward.created_at, include_seconds: true)} #{if reward.subject then "(#{reward.subject})" end}"
