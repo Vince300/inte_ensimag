@@ -1,0 +1,65 @@
+/*
+ *= require font-awesome
+ */
+
+@import "sf_ironsides";
+@import "bootstrap_configuration";
+@import "bootstrap-sprockets";
+@import "bootstrap";
+
+// Modern Business Template
+/*!
+ * Start Bootstrap - Modern Business HTML Template (http://startbootstrap.com)
+ * Code licensed under the Apache License v2.0.
+ * For details, see http://www.apache.org/licenses/LICENSE-2.0.
+ */
+
+/* Global Styles */
+
+html {
+  overflow-y: scroll;
+  height: 100%;
+}
+
+body {
+  height: 100%;
+}
+
+/* Footer Styles */
+
+footer {
+  margin: 35px 0;
+  color: #7b7b7b;
+}
+
+footer ul {
+  list-style-type: none;
+}
+
+/* Custom coloured styles */
+
+.page-content {
+  background: #fff;
+  padding-bottom: 2em;
+}
+
+/* Header styles */
+h1, h2, h3, h4, h5, h6 {
+  small {
+    margin-left: ($line-height-computed / 2);
+  }
+}
+
+.btn-left-margin {
+  margin-left: 5px;
+}
+
+.alert {
+  margin-bottom:0;
+}
+
+/* Custom styles */
+h1, h2, h3, h4, h5, h6 {
+  font-family: "sf_ironsides";
+  text-transform: uppercase;
+}

@@ -1,0 +1,3 @@
+cercle:
+  email: cercle.ensimag@gmail.com
+  encrypted_password: <%= Devise.bcrypt(User, "pass") %>
