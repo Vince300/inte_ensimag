@@ -1,4 +1,62 @@
 # Main application file
 # = require jquery
 # = require jquery_ujs
-# = require_tree .
+# = require jquery.mixitup
+# = require bootstrap
+# = require highcharts
+# = require highcharts_fr
+
+(($) ->
+  $ ->
+    # Initialize teams
+    $('#teams-container').mixItUp
+      selectors:
+        target: '.team'
+
+    # Initialize chart
+    #  Show a throbber icon
+    $('#chart-container').addClass('loading')
+    $('#chart-container').parents('.row').removeClass('hidden')
+
+    #  Load data via AJAX
+    $.get '/stats.json', null, (data) ->
+      # Remove throbber and initialize highcharts
+      $('#chart-container').removeClass('loading').highcharts
+        series: data.series
+        title:
+          text: ''
+        xAxis:
+          type: 'datetime'
+          title:
+            text: 'Date'
+        yAxis:
+          min: 0
+          title:
+            text: 'Points'
+        legend:
+          itemStyle:
+            fontFamily: 'sf_ironsides'
+            fontWeight: 'normal'
+            fontSize: '25pt'
+            textTransform: 'uppercase'
+
+  window.reloadTeams = ->
+    $.get '/teams.json', null, (data) ->
+      $('.team').each ->
+        $this = $(this)
+        team = data[$this.data('team-id')]
+        $this.attr({ 'data-team-score': team.score.value, 'data-team-rank': team.rank.value })
+        $this.find('.position').text team.rank.text
+        $this.find('.score').text team.score.text
+      $('#teams-container').mixItUp('sort', 'team-rank:asc')
+
+  window.reloadChart = ->
+    chart = $('#chart-container').highcharts()
+    if chart
+      chart.showLoading()
+      $.get '/stats.json', null, (data) ->
+        for series, i in data.series
+          chart.series[i].update(series, false)
+        chart.hideLoading()
+        chart.redraw()
+)(jQuery)

@@ -1,5 +1,6 @@
 Rails.application.routes.draw do
   get '/teams' => "home#teams"
+  get '/stats' => "home#stats"
 
   # Application homepage
   root 'home#index'

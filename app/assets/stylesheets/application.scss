@@ -71,3 +71,12 @@ h1, h2, h3, h4, h5, h6 {
   height: 36px;
   width: 36px;
 }
+
+#chart-container {
+  margin-top: 40px;
+}
+
+.loading {
+  background: asset_url('loading.gif') no-repeat center center;
+  min-height: 30px;
+}

@@ -2,6 +2,8 @@ footer
   .row
     .col-lg-6.text-right Cercle Ensimag 2015-2016
     .col-lg-6
-      - unless user_signed_in?
-        ul
+      ul
+        - if user_signed_in?
+          li= link_to "Déconnexion", destroy_user_session_path(redirect_to: URI(request.original_url).path), method: :delete
+        - else
           li= link_to "Connexion", new_user_session_path(redirect_to: URI(request.original_url).path)

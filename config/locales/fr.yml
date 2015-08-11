@@ -1,7 +1,15 @@
 fr:
   inte:
     position:
-      "0": Premiers
-      "1": Seconds
-      "2": Troisièmes
-      "3": Quatrièmes
+      "1": Premiers
+      "2": Seconds
+      "3": Troisièmes
+      "4": Quatrièmes
+    points:
+      zero: 0 points
+      one: 1 point
+      other: "%{count} points"
+    points_phrase:
+      zero: Aucun point accordé
+      one: 1 point accordé
+      other: "%{count} points accordés"
