@@ -36,7 +36,7 @@ pg.connect(pgConString, function(err, client) {
 
 // Setup HTTP streaming
 http.createServer(function(req, res) {
-	var remote = req.headers['X-Forwarded-For'] || req.socket.remoteAddress;
+	var remote = req.headers['x-forwarded-for'] || req.socket.remoteAddress;
 	if (req.url === "/") {
 		// Start HTTP streaming
 		res.writeHead(200, { "Content-Type": "text/event-stream",
