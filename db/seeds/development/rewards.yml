@@ -1,4001 +1,2001 @@
 ---
 reward_0:
   subject: Reward 0
-  team: ensihaka
-  amount: 13
-  created_at: '2015-08-11 19:52:55'
+  team: akinawa
+  amount: 20
+  created_at: '2015-08-12 00:43:52'
 reward_1:
   subject: Reward 1
-  team: akinawa
-  amount: 41
-  created_at: '2015-08-11 19:26:55'
+  team: agario
+  amount: 5
+  created_at: '2015-08-12 00:06:52'
 reward_2:
   subject: Reward 2
-  team: agario
-  amount: 16
-  created_at: '2015-08-11 19:20:55'
+  team: kawabunga
+  amount: 15
+  created_at: '2015-08-12 00:05:52'
 reward_3:
   subject: Reward 3
   team: kawabunga
-  amount: 6
-  created_at: '2015-08-11 19:11:55'
+  amount: 20
+  created_at: '2015-08-11 23:22:52'
 reward_4:
   subject: Reward 4
-  team: akinawa
-  amount: 36
-  created_at: '2015-08-11 19:02:55'
+  team: agario
+  amount: 25
+  created_at: '2015-08-11 23:15:52'
 reward_5:
   subject: Reward 5
-  team: kawabunga
-  amount: 48
-  created_at: '2015-08-11 18:35:55'
+  team: ensihaka
+  amount: 5
+  created_at: '2015-08-11 22:32:52'
 reward_6:
   subject: Reward 6
-  team: agario
-  amount: 13
-  created_at: '2015-08-11 18:15:55'
+  team: kawabunga
+  amount: 20
+  created_at: '2015-08-11 22:13:52'
 reward_7:
   subject: Reward 7
-  team: akinawa
-  amount: 40
-  created_at: '2015-08-11 18:13:55'
+  team: kawabunga
+  amount: 10
+  created_at: '2015-08-11 21:18:52'
 reward_8:
   subject: Reward 8
   team: ensihaka
-  amount: 32
-  created_at: '2015-08-11 17:47:55'
+  amount: 30
+  created_at: '2015-08-11 20:59:52'
 reward_9:
   subject: Reward 9
-  team: agario
-  amount: 19
-  created_at: '2015-08-11 17:29:55'
+  team: kawabunga
+  amount: 25
+  created_at: '2015-08-11 20:10:52'
 reward_10:
   subject: Reward 10
-  team: agario
-  amount: 27
-  created_at: '2015-08-11 17:02:55'
+  team: kawabunga
+  amount: 15
+  created_at: '2015-08-11 19:21:52'
 reward_11:
   subject: Reward 11
-  team: agario
-  amount: 42
-  created_at: '2015-08-11 16:53:55'
+  team: ensihaka
+  amount: 15
+  created_at: '2015-08-11 19:14:52'
 reward_12:
   subject: Reward 12
-  team: agario
-  amount: 25
-  created_at: '2015-08-11 16:29:55'
+  team: kawabunga
+  amount: 5
+  created_at: '2015-08-11 18:37:52'
 reward_13:
   subject: Reward 13
   team: kawabunga
-  amount: 8
-  created_at: '2015-08-11 16:26:55'
+  amount: 20
+  created_at: '2015-08-11 17:54:52'
 reward_14:
   subject: Reward 14
-  team: ensihaka
-  amount: 30
-  created_at: '2015-08-11 16:12:55'
+  team: agario
+  amount: 20
+  created_at: '2015-08-11 17:23:52'
 reward_15:
   subject: Reward 15
-  team: agario
-  amount: 44
-  created_at: '2015-08-11 15:47:55'
+  team: kawabunga
+  amount: 25
+  created_at: '2015-08-11 17:22:52'
 reward_16:
   subject: Reward 16
-  team: agario
-  amount: 37
-  created_at: '2015-08-11 15:30:55'
+  team: akinawa
+  amount: 25
+  created_at: '2015-08-11 17:15:52'
 reward_17:
   subject: Reward 17
   team: akinawa
-  amount: 14
-  created_at: '2015-08-11 15:16:55'
+  amount: 20
+  created_at: '2015-08-11 16:32:52'
 reward_18:
   subject: Reward 18
-  team: ensihaka
-  amount: 5
-  created_at: '2015-08-11 14:53:55'
+  team: akinawa
+  amount: 10
+  created_at: '2015-08-11 16:01:52'
 reward_19:
   subject: Reward 19
   team: ensihaka
-  amount: 5
-  created_at: '2015-08-11 14:47:55'
+  amount: 20
+  created_at: '2015-08-11 15:24:52'
 reward_20:
   subject: Reward 20
-  team: agario
-  amount: 9
-  created_at: '2015-08-11 14:19:55'
+  team: akinawa
+  amount: 25
+  created_at: '2015-08-11 15:05:52'
 reward_21:
   subject: Reward 21
-  team: kawabunga
-  amount: 17
-  created_at: '2015-08-11 13:56:55'
+  team: agario
+  amount: 20
+  created_at: '2015-08-11 14:28:52'
 reward_22:
   subject: Reward 22
-  team: agario
-  amount: 27
-  created_at: '2015-08-11 13:50:55'
+  team: ensihaka
+  amount: 5
+  created_at: '2015-08-11 14:09:52'
 reward_23:
   subject: Reward 23
-  team: kawabunga
-  amount: 42
-  created_at: '2015-08-11 13:31:55'
+  team: akinawa
+  amount: 10
+  created_at: '2015-08-11 13:14:52'
 reward_24:
   subject: Reward 24
-  team: akinawa
-  amount: 21
-  created_at: '2015-08-11 13:23:55'
+  team: agario
+  amount: 20
+  created_at: '2015-08-11 12:37:52'
 reward_25:
   subject: Reward 25
-  team: ensihaka
-  amount: 8
-  created_at: '2015-08-11 13:04:55'
+  team: agario
+  amount: 15
+  created_at: '2015-08-11 11:54:52'
 reward_26:
   subject: Reward 26
-  team: kawabunga
-  amount: 1
-  created_at: '2015-08-11 12:59:55'
+  team: akinawa
+  amount: 25
+  created_at: '2015-08-11 11:23:52'
 reward_27:
   subject: Reward 27
-  team: kawabunga
-  amount: 13
-  created_at: '2015-08-11 12:55:55'
+  team: ensihaka
+  amount: 15
+  created_at: '2015-08-11 10:58:52'
 reward_28:
   subject: Reward 28
-  team: ensihaka
-  amount: 44
-  created_at: '2015-08-11 12:48:55'
+  team: kawabunga
+  amount: 20
+  created_at: '2015-08-11 10:03:52'
 reward_29:
   subject: Reward 29
-  team: akinawa
-  amount: 9
-  created_at: '2015-08-11 12:26:55'
+  team: kawabunga
+  amount: 20
+  created_at: '2015-08-11 09:56:52'
 reward_30:
   subject: Reward 30
-  team: ensihaka
-  amount: 48
-  created_at: '2015-08-11 11:58:55'
+  team: agario
+  amount: 10
+  created_at: '2015-08-11 09:49:52'
 reward_31:
   subject: Reward 31
-  team: agario
-  amount: 5
-  created_at: '2015-08-11 11:39:55'
+  team: kawabunga
+  amount: 10
+  created_at: '2015-08-11 09:30:52'
 reward_32:
   subject: Reward 32
-  team: agario
-  amount: 26
-  created_at: '2015-08-11 11:10:55'
+  team: kawabunga
+  amount: 25
+  created_at: '2015-08-11 08:53:52'
 reward_33:
   subject: Reward 33
   team: akinawa
-  amount: 18
-  created_at: '2015-08-11 11:09:55'
+  amount: 10
+  created_at: '2015-08-11 08:46:52'
 reward_34:
   subject: Reward 34
   team: ensihaka
-  amount: 13
-  created_at: '2015-08-11 11:00:55'
+  amount: 5
+  created_at: '2015-08-11 08:03:52'
 reward_35:
   subject: Reward 35
-  team: kawabunga
-  amount: 10
-  created_at: '2015-08-11 10:37:55'
+  team: ensihaka
+  amount: 15
+  created_at: '2015-08-11 07:56:52'
 reward_36:
   subject: Reward 36
-  team: akinawa
+  team: agario
   amount: 25
-  created_at: '2015-08-11 10:17:55'
+  created_at: '2015-08-11 07:55:52'
 reward_37:
   subject: Reward 37
-  team: agario
-  amount: 34
-  created_at: '2015-08-11 10:07:55'
+  team: kawabunga
+  amount: 25
+  created_at: '2015-08-11 07:00:52'
 reward_38:
   subject: Reward 38
-  team: akinawa
-  amount: 6
-  created_at: '2015-08-11 09:43:55'
+  team: agario
+  amount: 30
+  created_at: '2015-08-11 06:29:52'
 reward_39:
   subject: Reward 39
   team: agario
   amount: 15
-  created_at: '2015-08-11 09:40:55'
+  created_at: '2015-08-11 06:16:52'
 reward_40:
   subject: Reward 40
   team: kawabunga
-  amount: 1
-  created_at: '2015-08-11 09:29:55'
+  amount: 5
+  created_at: '2015-08-11 06:03:52'
 reward_41:
   subject: Reward 41
-  team: ensihaka
-  amount: 36
-  created_at: '2015-08-11 09:08:55'
+  team: agario
+  amount: 25
+  created_at: '2015-08-11 05:26:52'
 reward_42:
   subject: Reward 42
   team: agario
-  amount: 26
-  created_at: '2015-08-11 09:00:55'
+  amount: 15
+  created_at: '2015-08-11 05:25:52'
 reward_43:
   subject: Reward 43
-  team: agario
-  amount: 31
-  created_at: '2015-08-11 08:47:55'
-reward_44:
-  subject: Reward 44
   team: ensihaka
   amount: 30
-  created_at: '2015-08-11 08:35:55'
+  created_at: '2015-08-11 05:18:52'
+reward_44:
+  subject: Reward 44
+  team: agario
+  amount: 10
+  created_at: '2015-08-11 04:53:52'
 reward_45:
   subject: Reward 45
   team: akinawa
-  amount: 43
-  created_at: '2015-08-11 08:26:55'
+  amount: 15
+  created_at: '2015-08-11 04:10:52'
 reward_46:
   subject: Reward 46
-  team: agario
-  amount: 12
-  created_at: '2015-08-11 08:25:55'
+  team: ensihaka
+  amount: 5
+  created_at: '2015-08-11 03:15:52'
 reward_47:
   subject: Reward 47
   team: akinawa
-  amount: 5
-  created_at: '2015-08-11 08:20:55'
+  amount: 15
+  created_at: '2015-08-11 02:20:52'
 reward_48:
   subject: Reward 48
-  team: ensihaka
-  amount: 19
-  created_at: '2015-08-11 08:08:55'
+  team: akinawa
+  amount: 30
+  created_at: '2015-08-11 01:49:52'
 reward_49:
   subject: Reward 49
-  team: ensihaka
-  amount: 14
-  created_at: '2015-08-11 07:41:55'
+  team: agario
+  amount: 5
+  created_at: '2015-08-11 01:48:52'
 reward_50:
   subject: Reward 50
-  team: akinawa
-  amount: 29
-  created_at: '2015-08-11 07:38:55'
+  team: ensihaka
+  amount: 5
+  created_at: '2015-08-11 01:23:52'
 reward_51:
   subject: Reward 51
   team: kawabunga
-  amount: 46
-  created_at: '2015-08-11 07:13:55'
+  amount: 25
+  created_at: '2015-08-11 00:52:52'
 reward_52:
   subject: Reward 52
   team: ensihaka
-  amount: 3
-  created_at: '2015-08-11 07:02:55'
+  amount: 5
+  created_at: '2015-08-11 00:03:52'
 reward_53:
   subject: Reward 53
-  team: agario
-  amount: 0
-  created_at: '2015-08-11 06:54:55'
+  team: kawabunga
+  amount: 5
+  created_at: '2015-08-11 00:02:52'
 reward_54:
   subject: Reward 54
   team: akinawa
-  amount: 25
-  created_at: '2015-08-11 06:38:55'
+  amount: 5
+  created_at: '2015-08-10 23:49:52'
 reward_55:
   subject: Reward 55
-  team: agario
-  amount: 36
-  created_at: '2015-08-11 06:27:55'
+  team: ensihaka
+  amount: 15
+  created_at: '2015-08-10 23:48:52'
 reward_56:
   subject: Reward 56
-  team: akinawa
-  amount: 14
-  created_at: '2015-08-11 06:08:55'
+  team: ensihaka
+  amount: 30
+  created_at: '2015-08-10 23:11:52'
 reward_57:
   subject: Reward 57
   team: ensihaka
-  amount: 16
-  created_at: '2015-08-11 05:49:55'
+  amount: 10
+  created_at: '2015-08-10 22:16:52'
 reward_58:
   subject: Reward 58
-  team: agario
-  amount: 45
-  created_at: '2015-08-11 05:30:55'
+  team: ensihaka
+  amount: 10
+  created_at: '2015-08-10 21:33:52'
 reward_59:
   subject: Reward 59
   team: agario
-  amount: 15
-  created_at: '2015-08-11 05:09:55'
+  amount: 20
+  created_at: '2015-08-10 20:44:52'
 reward_60:
   subject: Reward 60
-  team: ensihaka
-  amount: 15
-  created_at: '2015-08-11 04:48:55'
+  team: kawabunga
+  amount: 5
+  created_at: '2015-08-10 20:01:52'
 reward_61:
   subject: Reward 61
-  team: ensihaka
-  amount: 8
-  created_at: '2015-08-11 04:47:55'
+  team: agario
+  amount: 25
+  created_at: '2015-08-10 20:00:52'
 reward_62:
   subject: Reward 62
-  team: ensihaka
-  amount: 40
-  created_at: '2015-08-11 04:44:55'
+  team: agario
+  amount: 25
+  created_at: '2015-08-10 19:47:52'
 reward_63:
   subject: Reward 63
-  team: akinawa
-  amount: 44
-  created_at: '2015-08-11 04:30:55'
+  team: kawabunga
+  amount: 25
+  created_at: '2015-08-10 18:58:52'
 reward_64:
   subject: Reward 64
   team: ensihaka
-  amount: 45
-  created_at: '2015-08-11 04:29:55'
+  amount: 30
+  created_at: '2015-08-10 18:21:52'
 reward_65:
   subject: Reward 65
-  team: kawabunga
-  amount: 24
-  created_at: '2015-08-11 04:24:55'
+  team: ensihaka
+  amount: 30
+  created_at: '2015-08-10 17:44:52'
 reward_66:
   subject: Reward 66
-  team: akinawa
-  amount: 40
-  created_at: '2015-08-11 04:04:55'
+  team: kawabunga
+  amount: 20
+  created_at: '2015-08-10 17:19:52'
 reward_67:
   subject: Reward 67
-  team: ensihaka
-  amount: 29
-  created_at: '2015-08-11 04:00:55'
+  team: akinawa
+  amount: 20
+  created_at: '2015-08-10 16:24:52'
 reward_68:
   subject: Reward 68
   team: akinawa
-  amount: 25
-  created_at: '2015-08-11 03:46:55'
+  amount: 20
+  created_at: '2015-08-10 15:53:52'
 reward_69:
   subject: Reward 69
-  team: kawabunga
-  amount: 37
-  created_at: '2015-08-11 03:25:55'
+  team: agario
+  amount: 25
+  created_at: '2015-08-10 15:34:52'
 reward_70:
   subject: Reward 70
-  team: ensihaka
-  amount: 39
-  created_at: '2015-08-11 03:08:55'
+  team: kawabunga
+  amount: 15
+  created_at: '2015-08-10 14:57:52'
 reward_71:
   subject: Reward 71
   team: agario
-  amount: 24
-  created_at: '2015-08-11 02:39:55'
+  amount: 30
+  created_at: '2015-08-10 14:20:52'
 reward_72:
   subject: Reward 72
-  team: agario
-  amount: 49
-  created_at: '2015-08-11 02:16:55'
+  team: kawabunga
+  amount: 10
+  created_at: '2015-08-10 13:31:52'
 reward_73:
   subject: Reward 73
   team: agario
-  amount: 14
-  created_at: '2015-08-11 01:56:55'
+  amount: 10
+  created_at: '2015-08-10 12:48:52'
 reward_74:
   subject: Reward 74
-  team: ensihaka
-  amount: 9
-  created_at: '2015-08-11 01:45:55'
+  team: akinawa
+  amount: 10
+  created_at: '2015-08-10 12:41:52'
 reward_75:
   subject: Reward 75
-  team: akinawa
-  amount: 42
-  created_at: '2015-08-11 01:29:55'
+  team: ensihaka
+  amount: 25
+  created_at: '2015-08-10 12:10:52'
 reward_76:
   subject: Reward 76
   team: kawabunga
-  amount: 25
-  created_at: '2015-08-11 01:04:55'
+  amount: 15
+  created_at: '2015-08-10 11:15:52'
 reward_77:
   subject: Reward 77
-  team: ensihaka
-  amount: 37
-  created_at: '2015-08-11 00:41:55'
+  team: akinawa
+  amount: 10
+  created_at: '2015-08-10 10:32:52'
 reward_78:
   subject: Reward 78
-  team: agario
-  amount: 23
-  created_at: '2015-08-11 00:28:55'
+  team: ensihaka
+  amount: 30
+  created_at: '2015-08-10 10:01:52'
 reward_79:
   subject: Reward 79
-  team: ensihaka
-  amount: 31
-  created_at: '2015-08-11 00:25:55'
+  team: agario
+  amount: 15
+  created_at: '2015-08-10 09:24:52'
 reward_80:
   subject: Reward 80
-  team: kawabunga
-  amount: 41
-  created_at: '2015-08-11 00:09:55'
+  team: ensihaka
+  amount: 5
+  created_at: '2015-08-10 08:41:52'
 reward_81:
   subject: Reward 81
-  team: akinawa
-  amount: 18
-  created_at: '2015-08-11 00:08:55'
+  team: ensihaka
+  amount: 20
+  created_at: '2015-08-10 08:22:52'
 reward_82:
   subject: Reward 82
-  team: akinawa
-  amount: 12
-  created_at: '2015-08-10 23:54:55'
+  team: kawabunga
+  amount: 30
+  created_at: '2015-08-10 07:27:52'
 reward_83:
   subject: Reward 83
-  team: kawabunga
-  amount: 44
-  created_at: '2015-08-10 23:31:55'
+  team: ensihaka
+  amount: 20
+  created_at: '2015-08-10 07:02:52'
 reward_84:
   subject: Reward 84
-  team: ensihaka
-  amount: 8
-  created_at: '2015-08-10 23:09:55'
+  team: akinawa
+  amount: 5
+  created_at: '2015-08-10 06:49:52'
 reward_85:
   subject: Reward 85
-  team: kawabunga
-  amount: 17
-  created_at: '2015-08-10 22:52:55'
+  team: ensihaka
+  amount: 5
+  created_at: '2015-08-10 06:00:52'
 reward_86:
   subject: Reward 86
-  team: kawabunga
-  amount: 38
-  created_at: '2015-08-10 22:34:55'
+  team: akinawa
+  amount: 20
+  created_at: '2015-08-10 05:35:52'
 reward_87:
   subject: Reward 87
-  team: agario
-  amount: 22
-  created_at: '2015-08-10 22:26:55'
+  team: kawabunga
+  amount: 5
+  created_at: '2015-08-10 05:28:52'
 reward_88:
   subject: Reward 88
-  team: kawabunga
-  amount: 22
-  created_at: '2015-08-10 21:57:55'
+  team: agario
+  amount: 25
+  created_at: '2015-08-10 04:57:52'
 reward_89:
   subject: Reward 89
-  team: akinawa
-  amount: 28
-  created_at: '2015-08-10 21:38:55'
+  team: ensihaka
+  amount: 5
+  created_at: '2015-08-10 04:08:52'
 reward_90:
   subject: Reward 90
   team: akinawa
-  amount: 41
-  created_at: '2015-08-10 21:18:55'
+  amount: 15
+  created_at: '2015-08-10 03:31:52'
 reward_91:
   subject: Reward 91
-  team: akinawa
-  amount: 13
-  created_at: '2015-08-10 20:54:55'
+  team: ensihaka
+  amount: 5
+  created_at: '2015-08-10 03:00:52'
 reward_92:
   subject: Reward 92
-  team: kawabunga
-  amount: 16
-  created_at: '2015-08-10 20:30:55'
+  team: akinawa
+  amount: 30
+  created_at: '2015-08-10 02:53:52'
 reward_93:
   subject: Reward 93
-  team: ensihaka
-  amount: 43
-  created_at: '2015-08-10 20:27:55'
+  team: akinawa
+  amount: 10
+  created_at: '2015-08-10 02:10:52'
 reward_94:
   subject: Reward 94
-  team: agario
-  amount: 2
-  created_at: '2015-08-10 19:59:55'
+  team: kawabunga
+  amount: 25
+  created_at: '2015-08-10 01:27:52'
 reward_95:
   subject: Reward 95
-  team: kawabunga
-  amount: 8
-  created_at: '2015-08-10 19:42:55'
+  team: ensihaka
+  amount: 30
+  created_at: '2015-08-10 00:56:52'
 reward_96:
   subject: Reward 96
-  team: ensihaka
-  amount: 35
-  created_at: '2015-08-10 19:30:55'
+  team: kawabunga
+  amount: 5
+  created_at: '2015-08-10 00:07:52'
 reward_97:
   subject: Reward 97
-  team: kawabunga
-  amount: 11
-  created_at: '2015-08-10 19:08:55'
+  team: ensihaka
+  amount: 15
+  created_at: '2015-08-10 00:00:52'
 reward_98:
   subject: Reward 98
-  team: agario
-  amount: 22
-  created_at: '2015-08-10 18:48:55'
+  team: akinawa
+  amount: 15
+  created_at: '2015-08-09 23:41:52'
 reward_99:
   subject: Reward 99
   team: ensihaka
-  amount: 12
-  created_at: '2015-08-10 18:26:55'
+  amount: 30
+  created_at: '2015-08-09 22:46:52'
 reward_100:
   subject: Reward 100
-  team: kawabunga
-  amount: 45
-  created_at: '2015-08-10 18:00:55'
+  team: agario
+  amount: 5
+  created_at: '2015-08-09 21:51:52'
 reward_101:
   subject: Reward 101
-  team: kawabunga
-  amount: 1
-  created_at: '2015-08-10 17:55:55'
+  team: ensihaka
+  amount: 10
+  created_at: '2015-08-09 20:56:52'
 reward_102:
   subject: Reward 102
   team: agario
-  amount: 49
-  created_at: '2015-08-10 17:54:55'
+  amount: 30
+  created_at: '2015-08-09 20:37:52'
 reward_103:
   subject: Reward 103
-  team: ensihaka
-  amount: 33
-  created_at: '2015-08-10 17:34:55'
+  team: kawabunga
+  amount: 20
+  created_at: '2015-08-09 19:48:52'
 reward_104:
   subject: Reward 104
-  team: akinawa
-  amount: 24
-  created_at: '2015-08-10 17:25:55'
+  team: agario
+  amount: 30
+  created_at: '2015-08-09 19:23:52'
 reward_105:
   subject: Reward 105
-  team: ensihaka
-  amount: 16
-  created_at: '2015-08-10 17:22:55'
+  team: akinawa
+  amount: 20
+  created_at: '2015-08-09 18:28:52'
 reward_106:
   subject: Reward 106
-  team: kawabunga
-  amount: 14
-  created_at: '2015-08-10 17:20:55'
+  team: agario
+  amount: 25
+  created_at: '2015-08-09 18:03:52'
 reward_107:
   subject: Reward 107
-  team: agario
-  amount: 19
-  created_at: '2015-08-10 17:17:55'
+  team: akinawa
+  amount: 10
+  created_at: '2015-08-09 17:56:52'
 reward_108:
   subject: Reward 108
   team: agario
-  amount: 6
-  created_at: '2015-08-10 17:06:55'
+  amount: 15
+  created_at: '2015-08-09 17:31:52'
 reward_109:
   subject: Reward 109
-  team: agario
-  amount: 44
-  created_at: '2015-08-10 16:38:55'
+  team: ensihaka
+  amount: 20
+  created_at: '2015-08-09 16:48:52'
 reward_110:
   subject: Reward 110
   team: agario
-  amount: 4
-  created_at: '2015-08-10 16:12:55'
+  amount: 15
+  created_at: '2015-08-09 16:35:52'
 reward_111:
   subject: Reward 111
-  team: kawabunga
-  amount: 34
-  created_at: '2015-08-10 15:57:55'
+  team: agario
+  amount: 5
+  created_at: '2015-08-09 16:16:52'
 reward_112:
   subject: Reward 112
-  team: akinawa
-  amount: 8
-  created_at: '2015-08-10 15:49:55'
+  team: agario
+  amount: 5
+  created_at: '2015-08-09 15:27:52'
 reward_113:
   subject: Reward 113
-  team: akinawa
-  amount: 29
-  created_at: '2015-08-10 15:28:55'
+  team: agario
+  amount: 30
+  created_at: '2015-08-09 14:56:52'
 reward_114:
   subject: Reward 114
-  team: kawabunga
-  amount: 36
-  created_at: '2015-08-10 15:02:55'
+  team: ensihaka
+  amount: 25
+  created_at: '2015-08-09 14:55:52'
 reward_115:
   subject: Reward 115
-  team: kawabunga
-  amount: 34
-  created_at: '2015-08-10 14:46:55'
+  team: ensihaka
+  amount: 25
+  created_at: '2015-08-09 14:18:52'
 reward_116:
   subject: Reward 116
-  team: ensihaka
-  amount: 21
-  created_at: '2015-08-10 14:26:55'
+  team: kawabunga
+  amount: 10
+  created_at: '2015-08-09 13:35:52'
 reward_117:
   subject: Reward 117
-  team: ensihaka
-  amount: 31
-  created_at: '2015-08-10 14:02:55'
+  team: agario
+  amount: 25
+  created_at: '2015-08-09 13:04:52'
 reward_118:
   subject: Reward 118
   team: ensihaka
-  amount: 16
-  created_at: '2015-08-10 13:51:55'
+  amount: 20
+  created_at: '2015-08-09 12:09:52'
 reward_119:
   subject: Reward 119
   team: ensihaka
-  amount: 19
-  created_at: '2015-08-10 13:30:55'
+  amount: 20
+  created_at: '2015-08-09 11:56:52'
 reward_120:
   subject: Reward 120
-  team: akinawa
-  amount: 8
-  created_at: '2015-08-10 13:03:55'
+  team: ensihaka
+  amount: 20
+  created_at: '2015-08-09 11:07:52'
 reward_121:
   subject: Reward 121
-  team: agario
-  amount: 19
-  created_at: '2015-08-10 12:52:55'
+  team: kawabunga
+  amount: 20
+  created_at: '2015-08-09 10:18:52'
 reward_122:
   subject: Reward 122
-  team: ensihaka
-  amount: 36
-  created_at: '2015-08-10 12:36:55'
+  team: akinawa
+  amount: 15
+  created_at: '2015-08-09 09:23:52'
 reward_123:
   subject: Reward 123
   team: kawabunga
-  amount: 1
-  created_at: '2015-08-10 12:17:55'
+  amount: 10
+  created_at: '2015-08-09 08:52:52'
 reward_124:
   subject: Reward 124
-  team: akinawa
-  amount: 7
-  created_at: '2015-08-10 12:07:55'
+  team: kawabunga
+  amount: 15
+  created_at: '2015-08-09 08:39:52'
 reward_125:
   subject: Reward 125
-  team: akinawa
-  amount: 22
-  created_at: '2015-08-10 11:39:55'
+  team: ensihaka
+  amount: 20
+  created_at: '2015-08-09 07:50:52'
 reward_126:
   subject: Reward 126
-  team: ensihaka
-  amount: 43
-  created_at: '2015-08-10 11:37:55'
+  team: agario
+  amount: 5
+  created_at: '2015-08-09 07:25:52'
 reward_127:
   subject: Reward 127
-  team: akinawa
-  amount: 24
-  created_at: '2015-08-10 11:20:55'
+  team: kawabunga
+  amount: 20
+  created_at: '2015-08-09 06:42:52'
 reward_128:
   subject: Reward 128
-  team: agario
-  amount: 36
-  created_at: '2015-08-10 11:17:55'
-reward_129:
-  subject: Reward 129
-  team: kawabunga
-  amount: 37
-  created_at: '2015-08-10 10:56:55'
-reward_130:
-  subject: Reward 130
   team: akinawa
   amount: 10
-  created_at: '2015-08-10 10:29:55'
+  created_at: '2015-08-09 05:59:52'
+reward_129:
+  subject: Reward 129
+  team: ensihaka
+  amount: 10
+  created_at: '2015-08-09 05:16:52'
+reward_130:
+  subject: Reward 130
+  team: agario
+  amount: 20
+  created_at: '2015-08-09 04:45:52'
 reward_131:
   subject: Reward 131
-  team: ensihaka
-  amount: 18
-  created_at: '2015-08-10 10:27:55'
+  team: kawabunga
+  amount: 10
+  created_at: '2015-08-09 04:20:52'
 reward_132:
   subject: Reward 132
-  team: akinawa
-  amount: 0
-  created_at: '2015-08-10 10:14:55'
+  team: ensihaka
+  amount: 15
+  created_at: '2015-08-09 03:25:52'
 reward_133:
   subject: Reward 133
-  team: kawabunga
-  amount: 5
-  created_at: '2015-08-10 10:04:55'
+  team: akinawa
+  amount: 25
+  created_at: '2015-08-09 03:00:52'
 reward_134:
   subject: Reward 134
   team: agario
-  amount: 48
-  created_at: '2015-08-10 09:44:55'
+  amount: 5
+  created_at: '2015-08-09 02:59:52'
 reward_135:
   subject: Reward 135
   team: agario
-  amount: 32
-  created_at: '2015-08-10 09:20:55'
+  amount: 30
+  created_at: '2015-08-09 02:58:52'
 reward_136:
   subject: Reward 136
-  team: kawabunga
-  amount: 29
-  created_at: '2015-08-10 09:18:55'
+  team: ensihaka
+  amount: 25
+  created_at: '2015-08-09 02:57:52'
 reward_137:
   subject: Reward 137
-  team: agario
-  amount: 49
-  created_at: '2015-08-10 09:02:55'
+  team: kawabunga
+  amount: 20
+  created_at: '2015-08-09 02:02:52'
 reward_138:
   subject: Reward 138
   team: ensihaka
-  amount: 4
-  created_at: '2015-08-10 08:56:55'
+  amount: 30
+  created_at: '2015-08-09 01:07:52'
 reward_139:
   subject: Reward 139
-  team: akinawa
-  amount: 35
-  created_at: '2015-08-10 08:41:55'
-reward_140:
-  subject: Reward 140
   team: ensihaka
   amount: 10
-  created_at: '2015-08-10 08:13:55'
+  created_at: '2015-08-09 00:54:52'
+reward_140:
+  subject: Reward 140
+  team: agario
+  amount: 25
+  created_at: '2015-08-09 00:35:52'
 reward_141:
   subject: Reward 141
   team: ensihaka
-  amount: 48
-  created_at: '2015-08-10 07:48:55'
+  amount: 20
+  created_at: '2015-08-09 00:34:52'
 reward_142:
   subject: Reward 142
-  team: akinawa
-  amount: 19
-  created_at: '2015-08-10 07:35:55'
+  team: ensihaka
+  amount: 10
+  created_at: '2015-08-09 00:27:52'
 reward_143:
   subject: Reward 143
-  team: ensihaka
-  amount: 5
-  created_at: '2015-08-10 07:20:55'
+  team: akinawa
+  amount: 15
+  created_at: '2015-08-08 23:44:52'
 reward_144:
   subject: Reward 144
-  team: ensihaka
-  amount: 41
-  created_at: '2015-08-10 07:16:55'
+  team: akinawa
+  amount: 20
+  created_at: '2015-08-08 23:43:52'
 reward_145:
   subject: Reward 145
-  team: akinawa
-  amount: 32
-  created_at: '2015-08-10 07:03:55'
+  team: agario
+  amount: 20
+  created_at: '2015-08-08 23:18:52'
 reward_146:
   subject: Reward 146
-  team: kawabunga
-  amount: 9
-  created_at: '2015-08-10 06:57:55'
+  team: ensihaka
+  amount: 30
+  created_at: '2015-08-08 22:59:52'
 reward_147:
   subject: Reward 147
-  team: ensihaka
-  amount: 7
-  created_at: '2015-08-10 06:53:55'
+  team: agario
+  amount: 30
+  created_at: '2015-08-08 22:40:52'
 reward_148:
   subject: Reward 148
-  team: akinawa
-  amount: 4
-  created_at: '2015-08-10 06:31:55'
+  team: agario
+  amount: 15
+  created_at: '2015-08-08 21:57:52'
 reward_149:
   subject: Reward 149
   team: agario
-  amount: 30
-  created_at: '2015-08-10 06:15:55'
+  amount: 5
+  created_at: '2015-08-08 21:38:52'
 reward_150:
   subject: Reward 150
   team: ensihaka
-  amount: 32
-  created_at: '2015-08-10 06:02:55'
+  amount: 15
+  created_at: '2015-08-08 21:25:52'
 reward_151:
   subject: Reward 151
-  team: ensihaka
-  amount: 37
-  created_at: '2015-08-10 05:42:55'
+  team: akinawa
+  amount: 20
+  created_at: '2015-08-08 20:30:52'
 reward_152:
   subject: Reward 152
   team: ensihaka
-  amount: 39
-  created_at: '2015-08-10 05:18:55'
+  amount: 30
+  created_at: '2015-08-08 19:53:52'
 reward_153:
   subject: Reward 153
-  team: kawabunga
-  amount: 38
-  created_at: '2015-08-10 05:01:55'
+  team: akinawa
+  amount: 10
+  created_at: '2015-08-08 19:46:52'
 reward_154:
   subject: Reward 154
-  team: ensihaka
-  amount: 49
-  created_at: '2015-08-10 04:53:55'
+  team: agario
+  amount: 15
+  created_at: '2015-08-08 19:27:52'
 reward_155:
   subject: Reward 155
-  team: kawabunga
-  amount: 10
-  created_at: '2015-08-10 04:46:55'
+  team: akinawa
+  amount: 30
+  created_at: '2015-08-08 18:32:52'
 reward_156:
   subject: Reward 156
   team: ensihaka
-  amount: 47
-  created_at: '2015-08-10 04:29:55'
+  amount: 15
+  created_at: '2015-08-08 17:55:52'
 reward_157:
   subject: Reward 157
-  team: ensihaka
-  amount: 39
-  created_at: '2015-08-10 04:17:55'
+  team: agario
+  amount: 15
+  created_at: '2015-08-08 17:18:52'
 reward_158:
   subject: Reward 158
   team: ensihaka
-  amount: 49
-  created_at: '2015-08-10 04:06:55'
+  amount: 20
+  created_at: '2015-08-08 17:17:52'
 reward_159:
   subject: Reward 159
-  team: ensihaka
-  amount: 40
-  created_at: '2015-08-10 03:38:55'
+  team: agario
+  amount: 30
+  created_at: '2015-08-08 16:28:52'
 reward_160:
   subject: Reward 160
-  team: akinawa
-  amount: 40
-  created_at: '2015-08-10 03:35:55'
+  team: kawabunga
+  amount: 25
+  created_at: '2015-08-08 15:39:52'
 reward_161:
   subject: Reward 161
-  team: agario
-  amount: 12
-  created_at: '2015-08-10 03:07:55'
+  team: ensihaka
+  amount: 10
+  created_at: '2015-08-08 15:32:52'
 reward_162:
   subject: Reward 162
   team: akinawa
-  amount: 17
-  created_at: '2015-08-10 02:40:55'
+  amount: 5
+  created_at: '2015-08-08 14:37:52'
 reward_163:
   subject: Reward 163
-  team: akinawa
-  amount: 5
-  created_at: '2015-08-10 02:34:55'
+  team: agario
+  amount: 30
+  created_at: '2015-08-08 14:30:52'
 reward_164:
   subject: Reward 164
-  team: ensihaka
-  amount: 24
-  created_at: '2015-08-10 02:12:55'
+  team: akinawa
+  amount: 15
+  created_at: '2015-08-08 14:05:52'
 reward_165:
   subject: Reward 165
   team: ensihaka
-  amount: 37
-  created_at: '2015-08-10 01:44:55'
+  amount: 30
+  created_at: '2015-08-08 13:58:52'
 reward_166:
   subject: Reward 166
-  team: agario
-  amount: 44
-  created_at: '2015-08-10 01:37:55'
-reward_167:
-  subject: Reward 167
-  team: akinawa
-  amount: 29
-  created_at: '2015-08-10 01:34:55'
-reward_168:
-  subject: Reward 168
-  team: agario
-  amount: 48
-  created_at: '2015-08-10 01:07:55'
-reward_169:
-  subject: Reward 169
-  team: akinawa
-  amount: 7
-  created_at: '2015-08-10 00:53:55'
-reward_170:
-  subject: Reward 170
-  team: kawabunga
-  amount: 39
-  created_at: '2015-08-10 00:35:55'
-reward_171:
-  subject: Reward 171
-  team: akinawa
-  amount: 35
-  created_at: '2015-08-10 00:12:55'
-reward_172:
-  subject: Reward 172
-  team: agario
-  amount: 20
-  created_at: '2015-08-10 00:01:55'
-reward_173:
-  subject: Reward 173
   team: kawabunga
   amount: 30
-  created_at: '2015-08-09 23:35:55'
+  created_at: '2015-08-08 13:09:52'
+reward_167:
+  subject: Reward 167
+  team: ensihaka
+  amount: 30
+  created_at: '2015-08-08 12:20:52'
+reward_168:
+  subject: Reward 168
+  team: akinawa
+  amount: 30
+  created_at: '2015-08-08 11:55:52'
+reward_169:
+  subject: Reward 169
+  team: ensihaka
+  amount: 20
+  created_at: '2015-08-08 11:24:52'
+reward_170:
+  subject: Reward 170
+  team: ensihaka
+  amount: 25
+  created_at: '2015-08-08 10:29:52'
+reward_171:
+  subject: Reward 171
+  team: ensihaka
+  amount: 5
+  created_at: '2015-08-08 10:16:52'
+reward_172:
+  subject: Reward 172
+  team: kawabunga
+  amount: 5
+  created_at: '2015-08-08 09:33:52'
+reward_173:
+  subject: Reward 173
+  team: agario
+  amount: 10
+  created_at: '2015-08-08 09:32:52'
 reward_174:
   subject: Reward 174
-  team: agario
-  amount: 34
-  created_at: '2015-08-09 23:13:55'
+  team: ensihaka
+  amount: 15
+  created_at: '2015-08-08 09:07:52'
 reward_175:
   subject: Reward 175
-  team: agario
-  amount: 12
-  created_at: '2015-08-09 23:11:55'
+  team: akinawa
+  amount: 15
+  created_at: '2015-08-08 08:48:52'
 reward_176:
   subject: Reward 176
-  team: kawabunga
-  amount: 27
-  created_at: '2015-08-09 23:01:55'
+  team: akinawa
+  amount: 30
+  created_at: '2015-08-08 08:23:52'
 reward_177:
   subject: Reward 177
-  team: kawabunga
-  amount: 26
-  created_at: '2015-08-09 22:42:55'
+  team: agario
+  amount: 30
+  created_at: '2015-08-08 07:52:52'
 reward_178:
   subject: Reward 178
-  team: ensihaka
-  amount: 26
-  created_at: '2015-08-09 22:32:55'
+  team: agario
+  amount: 30
+  created_at: '2015-08-08 07:21:52'
 reward_179:
   subject: Reward 179
-  team: akinawa
-  amount: 25
-  created_at: '2015-08-09 22:03:55'
+  team: kawabunga
+  amount: 30
+  created_at: '2015-08-08 06:38:52'
 reward_180:
   subject: Reward 180
-  team: kawabunga
-  amount: 39
-  created_at: '2015-08-09 21:39:55'
+  team: agario
+  amount: 20
+  created_at: '2015-08-08 05:55:52'
 reward_181:
   subject: Reward 181
   team: agario
-  amount: 44
-  created_at: '2015-08-09 21:21:55'
+  amount: 20
+  created_at: '2015-08-08 05:12:52'
 reward_182:
   subject: Reward 182
-  team: akinawa
-  amount: 6
-  created_at: '2015-08-09 21:18:55'
+  team: agario
+  amount: 20
+  created_at: '2015-08-08 04:47:52'
 reward_183:
   subject: Reward 183
-  team: kawabunga
-  amount: 4
-  created_at: '2015-08-09 21:15:55'
+  team: akinawa
+  amount: 25
+  created_at: '2015-08-08 04:16:52'
 reward_184:
   subject: Reward 184
-  team: kawabunga
-  amount: 38
-  created_at: '2015-08-09 20:52:55'
+  team: agario
+  amount: 5
+  created_at: '2015-08-08 03:33:52'
 reward_185:
   subject: Reward 185
-  team: ensihaka
-  amount: 34
-  created_at: '2015-08-09 20:26:55'
+  team: kawabunga
+  amount: 20
+  created_at: '2015-08-08 02:44:52'
 reward_186:
   subject: Reward 186
-  team: ensihaka
-  amount: 34
-  created_at: '2015-08-09 20:15:55'
+  team: agario
+  amount: 5
+  created_at: '2015-08-08 02:01:52'
 reward_187:
   subject: Reward 187
-  team: ensihaka
-  amount: 1
-  created_at: '2015-08-09 19:56:55'
+  team: kawabunga
+  amount: 5
+  created_at: '2015-08-08 01:24:52'
 reward_188:
   subject: Reward 188
   team: akinawa
-  amount: 28
-  created_at: '2015-08-09 19:31:55'
+  amount: 15
+  created_at: '2015-08-08 01:17:52'
 reward_189:
   subject: Reward 189
-  team: ensihaka
+  team: agario
   amount: 15
-  created_at: '2015-08-09 19:06:55'
+  created_at: '2015-08-08 00:40:52'
 reward_190:
   subject: Reward 190
-  team: agario
-  amount: 4
-  created_at: '2015-08-09 18:45:55'
+  team: ensihaka
+  amount: 15
+  created_at: '2015-08-08 00:15:52'
 reward_191:
   subject: Reward 191
-  team: akinawa
-  amount: 8
-  created_at: '2015-08-09 18:19:55'
+  team: kawabunga
+  amount: 30
+  created_at: '2015-08-07 23:44:52'
 reward_192:
   subject: Reward 192
-  team: agario
-  amount: 43
-  created_at: '2015-08-09 17:57:55'
+  team: kawabunga
+  amount: 15
+  created_at: '2015-08-07 23:37:52'
 reward_193:
   subject: Reward 193
   team: kawabunga
-  amount: 6
-  created_at: '2015-08-09 17:32:55'
+  amount: 20
+  created_at: '2015-08-07 23:24:52'
 reward_194:
   subject: Reward 194
-  team: akinawa
-  amount: 39
-  created_at: '2015-08-09 17:20:55'
+  team: agario
+  amount: 30
+  created_at: '2015-08-07 23:17:52'
 reward_195:
   subject: Reward 195
-  team: agario
-  amount: 1
-  created_at: '2015-08-09 17:03:55'
+  team: akinawa
+  amount: 15
+  created_at: '2015-08-07 22:58:52'
 reward_196:
   subject: Reward 196
-  team: kawabunga
-  amount: 1
-  created_at: '2015-08-09 16:40:55'
+  team: akinawa
+  amount: 20
+  created_at: '2015-08-07 22:21:52'
 reward_197:
   subject: Reward 197
   team: kawabunga
-  amount: 1
-  created_at: '2015-08-09 16:36:55'
+  amount: 15
+  created_at: '2015-08-07 22:14:52'
 reward_198:
   subject: Reward 198
-  team: kawabunga
-  amount: 17
-  created_at: '2015-08-09 16:32:55'
+  team: akinawa
+  amount: 5
+  created_at: '2015-08-07 21:49:52'
 reward_199:
   subject: Reward 199
-  team: agario
-  amount: 22
-  created_at: '2015-08-09 16:23:55'
+  team: kawabunga
+  amount: 10
+  created_at: '2015-08-07 21:48:52'
 reward_200:
   subject: Reward 200
-  team: akinawa
-  amount: 34
-  created_at: '2015-08-09 16:00:55'
+  team: ensihaka
+  amount: 15
+  created_at: '2015-08-07 21:41:52'
 reward_201:
   subject: Reward 201
-  team: akinawa
-  amount: 16
-  created_at: '2015-08-09 15:59:55'
+  team: kawabunga
+  amount: 15
+  created_at: '2015-08-07 21:34:52'
 reward_202:
   subject: Reward 202
   team: akinawa
-  amount: 38
-  created_at: '2015-08-09 15:56:55'
+  amount: 20
+  created_at: '2015-08-07 20:51:52'
 reward_203:
   subject: Reward 203
   team: agario
-  amount: 44
-  created_at: '2015-08-09 15:54:55'
+  amount: 5
+  created_at: '2015-08-07 20:44:52'
 reward_204:
   subject: Reward 204
-  team: ensihaka
-  amount: 49
-  created_at: '2015-08-09 15:50:55'
+  team: kawabunga
+  amount: 30
+  created_at: '2015-08-07 20:19:52'
 reward_205:
   subject: Reward 205
   team: agario
-  amount: 46
-  created_at: '2015-08-09 15:36:55'
+  amount: 25
+  created_at: '2015-08-07 19:36:52'
 reward_206:
   subject: Reward 206
-  team: akinawa
-  amount: 49
-  created_at: '2015-08-09 15:12:55'
+  team: agario
+  amount: 5
+  created_at: '2015-08-07 19:23:52'
 reward_207:
   subject: Reward 207
-  team: agario
-  amount: 20
-  created_at: '2015-08-09 15:10:55'
+  team: akinawa
+  amount: 30
+  created_at: '2015-08-07 18:28:52'
 reward_208:
   subject: Reward 208
   team: kawabunga
-  amount: 46
-  created_at: '2015-08-09 15:09:55'
+  amount: 15
+  created_at: '2015-08-07 17:57:52'
 reward_209:
   subject: Reward 209
-  team: akinawa
-  amount: 29
-  created_at: '2015-08-09 15:05:55'
+  team: ensihaka
+  amount: 10
+  created_at: '2015-08-07 17:02:52'
 reward_210:
   subject: Reward 210
   team: agario
-  amount: 40
-  created_at: '2015-08-09 14:46:55'
+  amount: 15
+  created_at: '2015-08-07 16:55:52'
 reward_211:
   subject: Reward 211
-  team: akinawa
-  amount: 19
-  created_at: '2015-08-09 14:31:55'
+  team: ensihaka
+  amount: 5
+  created_at: '2015-08-07 16:42:52'
 reward_212:
   subject: Reward 212
-  team: ensihaka
-  amount: 2
-  created_at: '2015-08-09 14:07:55'
+  team: kawabunga
+  amount: 5
+  created_at: '2015-08-07 16:11:52'
 reward_213:
   subject: Reward 213
-  team: agario
-  amount: 4
-  created_at: '2015-08-09 13:54:55'
+  team: ensihaka
+  amount: 30
+  created_at: '2015-08-07 15:46:52'
 reward_214:
   subject: Reward 214
-  team: agario
-  amount: 29
-  created_at: '2015-08-09 13:39:55'
+  team: ensihaka
+  amount: 15
+  created_at: '2015-08-07 14:51:52'
 reward_215:
   subject: Reward 215
-  team: agario
-  amount: 10
-  created_at: '2015-08-09 13:28:55'
+  team: akinawa
+  amount: 5
+  created_at: '2015-08-07 14:08:52'
 reward_216:
   subject: Reward 216
   team: akinawa
-  amount: 11
-  created_at: '2015-08-09 13:13:55'
+  amount: 30
+  created_at: '2015-08-07 13:55:52'
 reward_217:
   subject: Reward 217
-  team: ensihaka
-  amount: 16
-  created_at: '2015-08-09 12:59:55'
+  team: akinawa
+  amount: 10
+  created_at: '2015-08-07 13:36:52'
 reward_218:
   subject: Reward 218
-  team: agario
-  amount: 2
-  created_at: '2015-08-09 12:39:55'
+  team: akinawa
+  amount: 15
+  created_at: '2015-08-07 12:41:52'
 reward_219:
   subject: Reward 219
-  team: kawabunga
-  amount: 10
-  created_at: '2015-08-09 12:10:55'
+  team: akinawa
+  amount: 5
+  created_at: '2015-08-07 12:34:52'
 reward_220:
   subject: Reward 220
-  team: agario
-  amount: 6
-  created_at: '2015-08-09 11:45:55'
+  team: kawabunga
+  amount: 10
+  created_at: '2015-08-07 11:45:52'
 reward_221:
   subject: Reward 221
-  team: ensihaka
-  amount: 9
-  created_at: '2015-08-09 11:33:55'
+  team: agario
+  amount: 15
+  created_at: '2015-08-07 11:02:52'
 reward_222:
   subject: Reward 222
-  team: kawabunga
-  amount: 15
-  created_at: '2015-08-09 11:13:55'
+  team: akinawa
+  amount: 30
+  created_at: '2015-08-07 10:37:52'
 reward_223:
   subject: Reward 223
-  team: ensihaka
-  amount: 39
-  created_at: '2015-08-09 11:07:55'
+  team: kawabunga
+  amount: 20
+  created_at: '2015-08-07 10:00:52'
 reward_224:
   subject: Reward 224
-  team: kawabunga
-  amount: 11
-  created_at: '2015-08-09 10:47:55'
+  team: ensihaka
+  amount: 30
+  created_at: '2015-08-07 09:41:52'
 reward_225:
   subject: Reward 225
-  team: agario
-  amount: 8
-  created_at: '2015-08-09 10:20:55'
+  team: akinawa
+  amount: 30
+  created_at: '2015-08-07 09:10:52'
 reward_226:
   subject: Reward 226
   team: agario
-  amount: 34
-  created_at: '2015-08-09 10:05:55'
+  amount: 5
+  created_at: '2015-08-07 08:21:52'
 reward_227:
   subject: Reward 227
-  team: agario
-  amount: 31
-  created_at: '2015-08-09 10:04:55'
+  team: akinawa
+  amount: 15
+  created_at: '2015-08-07 08:02:52'
 reward_228:
   subject: Reward 228
-  team: agario
-  amount: 48
-  created_at: '2015-08-09 09:51:55'
+  team: ensihaka
+  amount: 10
+  created_at: '2015-08-07 08:01:52'
 reward_229:
   subject: Reward 229
   team: agario
-  amount: 18
-  created_at: '2015-08-09 09:50:55'
+  amount: 10
+  created_at: '2015-08-07 07:36:52'
 reward_230:
   subject: Reward 230
-  team: ensihaka
-  amount: 32
-  created_at: '2015-08-09 09:29:55'
+  team: kawabunga
+  amount: 20
+  created_at: '2015-08-07 07:29:52'
 reward_231:
   subject: Reward 231
-  team: ensihaka
-  amount: 15
-  created_at: '2015-08-09 09:14:55'
+  team: kawabunga
+  amount: 25
+  created_at: '2015-08-07 06:40:52'
 reward_232:
   subject: Reward 232
   team: akinawa
-  amount: 36
-  created_at: '2015-08-09 09:08:55'
+  amount: 5
+  created_at: '2015-08-07 06:33:52'
 reward_233:
   subject: Reward 233
-  team: kawabunga
-  amount: 48
-  created_at: '2015-08-09 08:42:55'
+  team: ensihaka
+  amount: 30
+  created_at: '2015-08-07 05:38:52'
 reward_234:
   subject: Reward 234
   team: akinawa
-  amount: 35
-  created_at: '2015-08-09 08:24:55'
+  amount: 5
+  created_at: '2015-08-07 05:01:52'
 reward_235:
   subject: Reward 235
-  team: akinawa
-  amount: 25
-  created_at: '2015-08-09 08:23:55'
+  team: ensihaka
+  amount: 10
+  created_at: '2015-08-07 04:54:52'
 reward_236:
   subject: Reward 236
-  team: akinawa
-  amount: 45
-  created_at: '2015-08-09 08:19:55'
+  team: agario
+  amount: 20
+  created_at: '2015-08-07 04:41:52'
 reward_237:
   subject: Reward 237
-  team: akinawa
-  amount: 36
-  created_at: '2015-08-09 08:16:55'
+  team: kawabunga
+  amount: 10
+  created_at: '2015-08-07 04:10:52'
 reward_238:
   subject: Reward 238
   team: ensihaka
-  amount: 20
-  created_at: '2015-08-09 08:12:55'
+  amount: 25
+  created_at: '2015-08-07 03:45:52'
 reward_239:
   subject: Reward 239
-  team: ensihaka
-  amount: 44
-  created_at: '2015-08-09 08:07:55'
+  team: kawabunga
+  amount: 20
+  created_at: '2015-08-07 03:02:52'
 reward_240:
   subject: Reward 240
   team: akinawa
-  amount: 38
-  created_at: '2015-08-09 08:00:55'
+  amount: 20
+  created_at: '2015-08-07 03:01:52'
 reward_241:
   subject: Reward 241
   team: akinawa
-  amount: 1
-  created_at: '2015-08-09 07:45:55'
+  amount: 20
+  created_at: '2015-08-07 02:30:52'
 reward_242:
   subject: Reward 242
-  team: akinawa
-  amount: 10
-  created_at: '2015-08-09 07:27:55'
+  team: kawabunga
+  amount: 5
+  created_at: '2015-08-07 01:41:52'
 reward_243:
   subject: Reward 243
-  team: ensihaka
-  amount: 38
-  created_at: '2015-08-09 07:21:55'
+  team: kawabunga
+  amount: 15
+  created_at: '2015-08-07 01:28:52'
 reward_244:
   subject: Reward 244
   team: agario
-  amount: 28
-  created_at: '2015-08-09 06:55:55'
+  amount: 25
+  created_at: '2015-08-07 01:27:52'
 reward_245:
   subject: Reward 245
-  team: ensihaka
-  amount: 46
-  created_at: '2015-08-09 06:31:55'
+  team: akinawa
+  amount: 25
+  created_at: '2015-08-07 00:44:52'
 reward_246:
   subject: Reward 246
-  team: agario
-  amount: 33
-  created_at: '2015-08-09 06:11:55'
+  team: ensihaka
+  amount: 20
+  created_at: '2015-08-06 23:55:52'
 reward_247:
   subject: Reward 247
   team: akinawa
-  amount: 24
-  created_at: '2015-08-09 05:44:55'
+  amount: 25
+  created_at: '2015-08-06 23:06:52'
 reward_248:
   subject: Reward 248
   team: ensihaka
-  amount: 25
-  created_at: '2015-08-09 05:32:55'
+  amount: 5
+  created_at: '2015-08-06 22:41:52'
 reward_249:
   subject: Reward 249
-  team: ensihaka
-  amount: 22
-  created_at: '2015-08-09 05:15:55'
+  team: akinawa
+  amount: 25
+  created_at: '2015-08-06 22:22:52'
 reward_250:
   subject: Reward 250
-  team: akinawa
-  amount: 32
-  created_at: '2015-08-09 04:59:55'
+  team: ensihaka
+  amount: 10
+  created_at: '2015-08-06 21:39:52'
 reward_251:
   subject: Reward 251
-  team: kawabunga
-  amount: 44
-  created_at: '2015-08-09 04:56:55'
+  team: ensihaka
+  amount: 5
+  created_at: '2015-08-06 20:50:52'
 reward_252:
   subject: Reward 252
-  team: akinawa
-  amount: 4
-  created_at: '2015-08-09 04:49:55'
+  team: agario
+  amount: 5
+  created_at: '2015-08-06 20:01:52'
 reward_253:
   subject: Reward 253
-  team: agario
-  amount: 11
-  created_at: '2015-08-09 04:26:55'
+  team: kawabunga
+  amount: 30
+  created_at: '2015-08-06 19:18:52'
 reward_254:
   subject: Reward 254
-  team: kawabunga
-  amount: 10
-  created_at: '2015-08-09 04:00:55'
+  team: akinawa
+  amount: 15
+  created_at: '2015-08-06 18:23:52'
 reward_255:
   subject: Reward 255
-  team: kawabunga
-  amount: 16
-  created_at: '2015-08-09 03:40:55'
+  team: ensihaka
+  amount: 15
+  created_at: '2015-08-06 18:10:52'
 reward_256:
   subject: Reward 256
   team: ensihaka
-  amount: 41
-  created_at: '2015-08-09 03:19:55'
+  amount: 10
+  created_at: '2015-08-06 17:39:52'
 reward_257:
   subject: Reward 257
-  team: ensihaka
-  amount: 2
-  created_at: '2015-08-09 03:15:55'
+  team: akinawa
+  amount: 10
+  created_at: '2015-08-06 16:56:52'
 reward_258:
   subject: Reward 258
-  team: akinawa
-  amount: 17
-  created_at: '2015-08-09 02:46:55'
+  team: ensihaka
+  amount: 25
+  created_at: '2015-08-06 16:25:52'
 reward_259:
   subject: Reward 259
-  team: ensihaka
-  amount: 10
-  created_at: '2015-08-09 02:33:55'
+  team: akinawa
+  amount: 25
+  created_at: '2015-08-06 16:00:52'
 reward_260:
   subject: Reward 260
-  team: agario
-  amount: 1
-  created_at: '2015-08-09 02:08:55'
+  team: akinawa
+  amount: 10
+  created_at: '2015-08-06 15:05:52'
 reward_261:
   subject: Reward 261
   team: ensihaka
-  amount: 4
-  created_at: '2015-08-09 01:39:55'
+  amount: 10
+  created_at: '2015-08-06 14:28:52'
 reward_262:
   subject: Reward 262
-  team: agario
-  amount: 45
-  created_at: '2015-08-09 01:38:55'
+  team: akinawa
+  amount: 30
+  created_at: '2015-08-06 13:45:52'
 reward_263:
   subject: Reward 263
   team: akinawa
-  amount: 44
-  created_at: '2015-08-09 01:09:55'
+  amount: 15
+  created_at: '2015-08-06 13:14:52'
 reward_264:
   subject: Reward 264
-  team: akinawa
-  amount: 38
-  created_at: '2015-08-09 00:58:55'
+  team: kawabunga
+  amount: 10
+  created_at: '2015-08-06 12:43:52'
 reward_265:
   subject: Reward 265
   team: kawabunga
-  amount: 49
-  created_at: '2015-08-09 00:44:55'
+  amount: 5
+  created_at: '2015-08-06 12:06:52'
 reward_266:
   subject: Reward 266
   team: akinawa
   amount: 15
-  created_at: '2015-08-09 00:15:55'
+  created_at: '2015-08-06 11:17:52'
 reward_267:
   subject: Reward 267
   team: agario
-  amount: 15
-  created_at: '2015-08-09 00:09:55'
+  amount: 10
+  created_at: '2015-08-06 10:52:52'
 reward_268:
   subject: Reward 268
-  team: agario
-  amount: 1
-  created_at: '2015-08-08 23:58:55'
+  team: akinawa
+  amount: 10
+  created_at: '2015-08-06 10:09:52'
 reward_269:
   subject: Reward 269
-  team: agario
-  amount: 43
-  created_at: '2015-08-08 23:30:55'
+  team: kawabunga
+  amount: 30
+  created_at: '2015-08-06 10:02:52'
 reward_270:
   subject: Reward 270
-  team: ensihaka
-  amount: 22
-  created_at: '2015-08-08 23:22:55'
+  team: akinawa
+  amount: 30
+  created_at: '2015-08-06 09:55:52'
 reward_271:
   subject: Reward 271
-  team: ensihaka
-  amount: 4
-  created_at: '2015-08-08 23:14:55'
+  team: agario
+  amount: 15
+  created_at: '2015-08-06 09:00:52'
 reward_272:
   subject: Reward 272
-  team: akinawa
-  amount: 46
-  created_at: '2015-08-08 22:50:55'
+  team: ensihaka
+  amount: 30
+  created_at: '2015-08-06 08:23:52'
 reward_273:
   subject: Reward 273
-  team: kawabunga
-  amount: 1
-  created_at: '2015-08-08 22:43:55'
+  team: agario
+  amount: 15
+  created_at: '2015-08-06 07:58:52'
 reward_274:
   subject: Reward 274
   team: akinawa
-  amount: 44
-  created_at: '2015-08-08 22:35:55'
+  amount: 25
+  created_at: '2015-08-06 07:21:52'
 reward_275:
   subject: Reward 275
-  team: agario
-  amount: 22
-  created_at: '2015-08-08 22:12:55'
+  team: ensihaka
+  amount: 30
+  created_at: '2015-08-06 06:26:52'
 reward_276:
   subject: Reward 276
-  team: akinawa
-  amount: 39
-  created_at: '2015-08-08 22:05:55'
+  team: kawabunga
+  amount: 30
+  created_at: '2015-08-06 05:49:52'
 reward_277:
   subject: Reward 277
-  team: akinawa
-  amount: 40
-  created_at: '2015-08-08 21:59:55'
+  team: agario
+  amount: 20
+  created_at: '2015-08-06 05:06:52'
 reward_278:
   subject: Reward 278
-  team: akinawa
-  amount: 37
-  created_at: '2015-08-08 21:48:55'
+  team: agario
+  amount: 10
+  created_at: '2015-08-06 04:11:52'
 reward_279:
   subject: Reward 279
-  team: agario
-  amount: 18
-  created_at: '2015-08-08 21:45:55'
+  team: akinawa
+  amount: 10
+  created_at: '2015-08-06 03:40:52'
 reward_280:
   subject: Reward 280
-  team: kawabunga
-  amount: 38
-  created_at: '2015-08-08 21:35:55'
+  team: akinawa
+  amount: 30
+  created_at: '2015-08-06 03:09:52'
 reward_281:
   subject: Reward 281
-  team: kawabunga
-  amount: 17
-  created_at: '2015-08-08 21:24:55'
+  team: akinawa
+  amount: 20
+  created_at: '2015-08-06 02:38:52'
 reward_282:
   subject: Reward 282
-  team: akinawa
-  amount: 17
-  created_at: '2015-08-08 21:11:55'
+  team: agario
+  amount: 25
+  created_at: '2015-08-06 02:13:52'
 reward_283:
   subject: Reward 283
-  team: akinawa
-  amount: 7
-  created_at: '2015-08-08 20:46:55'
+  team: agario
+  amount: 15
+  created_at: '2015-08-06 01:18:52'
 reward_284:
   subject: Reward 284
-  team: kawabunga
-  amount: 26
-  created_at: '2015-08-08 20:29:55'
+  team: ensihaka
+  amount: 20
+  created_at: '2015-08-06 01:11:52'
 reward_285:
   subject: Reward 285
-  team: akinawa
-  amount: 38
-  created_at: '2015-08-08 20:01:55'
+  team: kawabunga
+  amount: 15
+  created_at: '2015-08-06 01:10:52'
 reward_286:
   subject: Reward 286
-  team: ensihaka
-  amount: 28
-  created_at: '2015-08-08 19:44:55'
+  team: akinawa
+  amount: 20
+  created_at: '2015-08-06 00:21:52'
 reward_287:
   subject: Reward 287
-  team: ensihaka
-  amount: 44
-  created_at: '2015-08-08 19:16:55'
+  team: akinawa
+  amount: 15
+  created_at: '2015-08-05 23:50:52'
 reward_288:
   subject: Reward 288
-  team: kawabunga
-  amount: 43
-  created_at: '2015-08-08 18:51:55'
+  team: akinawa
+  amount: 10
+  created_at: '2015-08-05 23:25:52'
 reward_289:
   subject: Reward 289
-  team: kawabunga
-  amount: 44
-  created_at: '2015-08-08 18:32:55'
+  team: akinawa
+  amount: 30
+  created_at: '2015-08-05 23:24:52'
 reward_290:
   subject: Reward 290
   team: kawabunga
-  amount: 24
-  created_at: '2015-08-08 18:24:55'
+  amount: 30
+  created_at: '2015-08-05 22:35:52'
 reward_291:
   subject: Reward 291
-  team: kawabunga
-  amount: 45
-  created_at: '2015-08-08 17:59:55'
+  team: akinawa
+  amount: 5
+  created_at: '2015-08-05 22:10:52'
 reward_292:
   subject: Reward 292
-  team: ensihaka
-  amount: 0
-  created_at: '2015-08-08 17:37:55'
+  team: kawabunga
+  amount: 25
+  created_at: '2015-08-05 21:21:52'
 reward_293:
   subject: Reward 293
   team: ensihaka
-  amount: 40
-  created_at: '2015-08-08 17:34:55'
+  amount: 20
+  created_at: '2015-08-05 20:26:52'
 reward_294:
   subject: Reward 294
-  team: agario
-  amount: 24
-  created_at: '2015-08-08 17:20:55'
+  team: ensihaka
+  amount: 20
+  created_at: '2015-08-05 20:01:52'
 reward_295:
   subject: Reward 295
   team: kawabunga
-  amount: 37
-  created_at: '2015-08-08 16:53:55'
+  amount: 10
+  created_at: '2015-08-05 19:06:52'
 reward_296:
   subject: Reward 296
   team: akinawa
-  amount: 14
-  created_at: '2015-08-08 16:31:55'
+  amount: 25
+  created_at: '2015-08-05 18:59:52'
 reward_297:
   subject: Reward 297
-  team: akinawa
-  amount: 18
-  created_at: '2015-08-08 16:21:55'
+  team: ensihaka
+  amount: 25
+  created_at: '2015-08-05 18:16:52'
 reward_298:
   subject: Reward 298
-  team: kawabunga
-  amount: 5
-  created_at: '2015-08-08 16:16:55'
+  team: ensihaka
+  amount: 20
+  created_at: '2015-08-05 17:27:52'
 reward_299:
   subject: Reward 299
-  team: akinawa
-  amount: 5
-  created_at: '2015-08-08 15:52:55'
+  team: ensihaka
+  amount: 10
+  created_at: '2015-08-05 17:02:52'
 reward_300:
   subject: Reward 300
-  team: kawabunga
-  amount: 4
-  created_at: '2015-08-08 15:50:55'
+  team: ensihaka
+  amount: 25
+  created_at: '2015-08-05 16:19:52'
 reward_301:
   subject: Reward 301
-  team: agario
-  amount: 21
-  created_at: '2015-08-08 15:48:55'
+  team: akinawa
+  amount: 20
+  created_at: '2015-08-05 15:30:52'
 reward_302:
   subject: Reward 302
-  team: kawabunga
-  amount: 37
-  created_at: '2015-08-08 15:41:55'
+  team: agario
+  amount: 25
+  created_at: '2015-08-05 15:17:52'
 reward_303:
   subject: Reward 303
   team: kawabunga
-  amount: 16
-  created_at: '2015-08-08 15:16:55'
+  amount: 10
+  created_at: '2015-08-05 14:46:52'
 reward_304:
   subject: Reward 304
-  team: ensihaka
-  amount: 40
-  created_at: '2015-08-08 14:50:55'
+  team: kawabunga
+  amount: 30
+  created_at: '2015-08-05 14:09:52'
 reward_305:
   subject: Reward 305
-  team: kawabunga
-  amount: 28
-  created_at: '2015-08-08 14:37:55'
+  team: ensihaka
+  amount: 30
+  created_at: '2015-08-05 14:02:52'
 reward_306:
   subject: Reward 306
-  team: kawabunga
-  amount: 0
-  created_at: '2015-08-08 14:24:55'
+  team: akinawa
+  amount: 30
+  created_at: '2015-08-05 13:25:52'
 reward_307:
   subject: Reward 307
-  team: ensihaka
-  amount: 28
-  created_at: '2015-08-08 14:18:55'
+  team: kawabunga
+  amount: 15
+  created_at: '2015-08-05 12:48:52'
 reward_308:
   subject: Reward 308
-  team: ensihaka
-  amount: 22
-  created_at: '2015-08-08 14:08:55'
+  team: kawabunga
+  amount: 25
+  created_at: '2015-08-05 12:47:52'
 reward_309:
   subject: Reward 309
-  team: agario
-  amount: 4
-  created_at: '2015-08-08 13:58:55'
+  team: akinawa
+  amount: 5
+  created_at: '2015-08-05 12:46:52'
 reward_310:
   subject: Reward 310
-  team: akinawa
-  amount: 1
-  created_at: '2015-08-08 13:56:55'
+  team: kawabunga
+  amount: 10
+  created_at: '2015-08-05 12:21:52'
 reward_311:
   subject: Reward 311
   team: kawabunga
-  amount: 32
-  created_at: '2015-08-08 13:35:55'
+  amount: 5
+  created_at: '2015-08-05 11:50:52'
 reward_312:
   subject: Reward 312
-  team: kawabunga
-  amount: 1
-  created_at: '2015-08-08 13:20:55'
+  team: akinawa
+  amount: 25
+  created_at: '2015-08-05 11:43:52'
 reward_313:
   subject: Reward 313
-  team: ensihaka
-  amount: 10
-  created_at: '2015-08-08 12:54:55'
+  team: agario
+  amount: 30
+  created_at: '2015-08-05 11:36:52'
 reward_314:
   subject: Reward 314
-  team: agario
-  amount: 11
-  created_at: '2015-08-08 12:30:55'
+  team: akinawa
+  amount: 30
+  created_at: '2015-08-05 11:23:52'
 reward_315:
   subject: Reward 315
-  team: agario
-  amount: 4
-  created_at: '2015-08-08 12:22:55'
+  team: akinawa
+  amount: 5
+  created_at: '2015-08-05 10:46:52'
 reward_316:
   subject: Reward 316
-  team: kawabunga
-  amount: 25
-  created_at: '2015-08-08 12:04:55'
+  team: agario
+  amount: 5
+  created_at: '2015-08-05 09:57:52'
 reward_317:
   subject: Reward 317
-  team: akinawa
-  amount: 23
-  created_at: '2015-08-08 11:49:55'
+  team: ensihaka
+  amount: 15
+  created_at: '2015-08-05 09:38:52'
 reward_318:
   subject: Reward 318
   team: kawabunga
-  amount: 47
-  created_at: '2015-08-08 11:24:55'
+  amount: 20
+  created_at: '2015-08-05 09:07:52'
 reward_319:
   subject: Reward 319
-  team: kawabunga
-  amount: 39
-  created_at: '2015-08-08 10:55:55'
+  team: akinawa
+  amount: 5
+  created_at: '2015-08-05 08:42:52'
 reward_320:
   subject: Reward 320
-  team: kawabunga
-  amount: 28
-  created_at: '2015-08-08 10:40:55'
+  team: agario
+  amount: 30
+  created_at: '2015-08-05 08:35:52'
 reward_321:
   subject: Reward 321
   team: agario
-  amount: 24
-  created_at: '2015-08-08 10:21:55'
+  amount: 10
+  created_at: '2015-08-05 07:58:52'
 reward_322:
   subject: Reward 322
   team: akinawa
-  amount: 44
-  created_at: '2015-08-08 10:16:55'
+  amount: 20
+  created_at: '2015-08-05 07:33:52'
 reward_323:
   subject: Reward 323
   team: akinawa
-  amount: 3
-  created_at: '2015-08-08 10:05:55'
+  amount: 5
+  created_at: '2015-08-05 07:26:52'
 reward_324:
   subject: Reward 324
-  team: kawabunga
-  amount: 29
-  created_at: '2015-08-08 09:52:55'
+  team: agario
+  amount: 25
+  created_at: '2015-08-05 06:31:52'
 reward_325:
   subject: Reward 325
-  team: ensihaka
-  amount: 13
-  created_at: '2015-08-08 09:43:55'
+  team: agario
+  amount: 5
+  created_at: '2015-08-05 06:24:52'
 reward_326:
   subject: Reward 326
-  team: ensihaka
-  amount: 20
-  created_at: '2015-08-08 09:14:55'
+  team: agario
+  amount: 15
+  created_at: '2015-08-05 05:29:52'
 reward_327:
   subject: Reward 327
   team: ensihaka
-  amount: 10
-  created_at: '2015-08-08 09:12:55'
+  amount: 25
+  created_at: '2015-08-05 05:04:52'
 reward_328:
   subject: Reward 328
   team: akinawa
-  amount: 46
-  created_at: '2015-08-08 09:09:55'
+  amount: 15
+  created_at: '2015-08-05 04:45:52'
 reward_329:
   subject: Reward 329
-  team: agario
-  amount: 9
-  created_at: '2015-08-08 08:54:55'
+  team: kawabunga
+  amount: 5
+  created_at: '2015-08-05 04:26:52'
 reward_330:
   subject: Reward 330
-  team: kawabunga
-  amount: 6
-  created_at: '2015-08-08 08:26:55'
+  team: ensihaka
+  amount: 25
+  created_at: '2015-08-05 04:01:52'
 reward_331:
   subject: Reward 331
   team: kawabunga
-  amount: 42
-  created_at: '2015-08-08 08:07:55'
+  amount: 25
+  created_at: '2015-08-05 03:42:52'
 reward_332:
   subject: Reward 332
-  team: akinawa
-  amount: 20
-  created_at: '2015-08-08 07:52:55'
+  team: agario
+  amount: 15
+  created_at: '2015-08-05 03:23:52'
 reward_333:
   subject: Reward 333
   team: akinawa
-  amount: 21
-  created_at: '2015-08-08 07:31:55'
+  amount: 15
+  created_at: '2015-08-05 03:04:52'
 reward_334:
   subject: Reward 334
   team: agario
-  amount: 42
-  created_at: '2015-08-08 07:03:55'
+  amount: 10
+  created_at: '2015-08-05 02:21:52'
 reward_335:
   subject: Reward 335
-  team: ensihaka
-  amount: 12
-  created_at: '2015-08-08 06:58:55'
+  team: kawabunga
+  amount: 15
+  created_at: '2015-08-05 02:02:52'
 reward_336:
   subject: Reward 336
-  team: ensihaka
-  amount: 32
-  created_at: '2015-08-08 06:47:55'
+  team: akinawa
+  amount: 20
+  created_at: '2015-08-05 01:13:52'
 reward_337:
   subject: Reward 337
   team: ensihaka
-  amount: 41
-  created_at: '2015-08-08 06:19:55'
+  amount: 30
+  created_at: '2015-08-05 00:36:52'
 reward_338:
   subject: Reward 338
   team: ensihaka
-  amount: 37
-  created_at: '2015-08-08 06:17:55'
+  amount: 10
+  created_at: '2015-08-04 23:53:52'
 reward_339:
   subject: Reward 339
-  team: agario
-  amount: 14
-  created_at: '2015-08-08 05:53:55'
+  team: kawabunga
+  amount: 25
+  created_at: '2015-08-04 22:58:52'
 reward_340:
   subject: Reward 340
-  team: akinawa
-  amount: 39
-  created_at: '2015-08-08 05:29:55'
+  team: ensihaka
+  amount: 10
+  created_at: '2015-08-04 22:57:52'
 reward_341:
   subject: Reward 341
-  team: kawabunga
-  amount: 17
-  created_at: '2015-08-08 05:06:55'
+  team: akinawa
+  amount: 20
+  created_at: '2015-08-04 22:50:52'
 reward_342:
   subject: Reward 342
-  team: kawabunga
-  amount: 27
-  created_at: '2015-08-08 04:55:55'
+  team: agario
+  amount: 15
+  created_at: '2015-08-04 22:31:52'
 reward_343:
   subject: Reward 343
   team: akinawa
-  amount: 21
-  created_at: '2015-08-08 04:33:55'
+  amount: 30
+  created_at: '2015-08-04 21:48:52'
 reward_344:
   subject: Reward 344
-  team: ensihaka
-  amount: 43
-  created_at: '2015-08-08 04:20:55'
+  team: kawabunga
+  amount: 5
+  created_at: '2015-08-04 20:59:52'
 reward_345:
   subject: Reward 345
   team: kawabunga
-  amount: 2
-  created_at: '2015-08-08 04:17:55'
+  amount: 20
+  created_at: '2015-08-04 20:58:52'
 reward_346:
   subject: Reward 346
-  team: agario
-  amount: 9
-  created_at: '2015-08-08 04:03:55'
-reward_347:
-  subject: Reward 347
-  team: ensihaka
-  amount: 12
-  created_at: '2015-08-08 03:50:55'
-reward_348:
-  subject: Reward 348
-  team: kawabunga
-  amount: 5
-  created_at: '2015-08-08 03:41:55'
-reward_349:
-  subject: Reward 349
   team: kawabunga
   amount: 10
-  created_at: '2015-08-08 03:20:55'
+  created_at: '2015-08-04 20:33:52'
+reward_347:
+  subject: Reward 347
+  team: agario
+  amount: 15
+  created_at: '2015-08-04 19:38:52'
+reward_348:
+  subject: Reward 348
+  team: agario
+  amount: 20
+  created_at: '2015-08-04 19:13:52'
+reward_349:
+  subject: Reward 349
+  team: akinawa
+  amount: 10
+  created_at: '2015-08-04 19:12:52'
 reward_350:
   subject: Reward 350
-  team: agario
-  amount: 2
-  created_at: '2015-08-08 02:55:55'
+  team: kawabunga
+  amount: 5
+  created_at: '2015-08-04 18:35:52'
 reward_351:
   subject: Reward 351
-  team: agario
-  amount: 46
-  created_at: '2015-08-08 02:39:55'
+  team: akinawa
+  amount: 20
+  created_at: '2015-08-04 17:58:52'
 reward_352:
   subject: Reward 352
-  team: akinawa
-  amount: 22
-  created_at: '2015-08-08 02:15:55'
+  team: agario
+  amount: 5
+  created_at: '2015-08-04 17:57:52'
 reward_353:
   subject: Reward 353
   team: ensihaka
-  amount: 38
-  created_at: '2015-08-08 02:11:55'
+  amount: 10
+  created_at: '2015-08-04 17:32:52'
 reward_354:
   subject: Reward 354
-  team: ensihaka
-  amount: 35
-  created_at: '2015-08-08 02:10:55'
+  team: akinawa
+  amount: 25
+  created_at: '2015-08-04 17:31:52'
 reward_355:
   subject: Reward 355
-  team: kawabunga
-  amount: 11
-  created_at: '2015-08-08 01:45:55'
+  team: agario
+  amount: 20
+  created_at: '2015-08-04 17:24:52'
 reward_356:
   subject: Reward 356
-  team: agario
-  amount: 29
-  created_at: '2015-08-08 01:28:55'
+  team: kawabunga
+  amount: 30
+  created_at: '2015-08-04 16:35:52'
 reward_357:
   subject: Reward 357
-  team: ensihaka
-  amount: 13
-  created_at: '2015-08-08 01:03:55'
+  team: kawabunga
+  amount: 20
+  created_at: '2015-08-04 15:40:52'
 reward_358:
   subject: Reward 358
-  team: akinawa
-  amount: 34
-  created_at: '2015-08-08 00:37:55'
+  team: ensihaka
+  amount: 5
+  created_at: '2015-08-04 15:03:52'
 reward_359:
   subject: Reward 359
-  team: akinawa
-  amount: 8
-  created_at: '2015-08-08 00:34:55'
+  team: agario
+  amount: 5
+  created_at: '2015-08-04 14:26:52'
 reward_360:
   subject: Reward 360
-  team: kawabunga
-  amount: 25
-  created_at: '2015-08-08 00:16:55'
+  team: ensihaka
+  amount: 30
+  created_at: '2015-08-04 13:37:52'
 reward_361:
   subject: Reward 361
   team: agario
-  amount: 37
-  created_at: '2015-08-07 23:52:55'
+  amount: 20
+  created_at: '2015-08-04 13:30:52'
 reward_362:
   subject: Reward 362
   team: akinawa
-  amount: 13
-  created_at: '2015-08-07 23:37:55'
+  amount: 15
+  created_at: '2015-08-04 12:41:52'
 reward_363:
   subject: Reward 363
-  team: agario
-  amount: 7
-  created_at: '2015-08-07 23:30:55'
+  team: akinawa
+  amount: 15
+  created_at: '2015-08-04 11:52:52'
 reward_364:
   subject: Reward 364
-  team: akinawa
-  amount: 21
-  created_at: '2015-08-07 23:13:55'
+  team: ensihaka
+  amount: 30
+  created_at: '2015-08-04 11:33:52'
 reward_365:
   subject: Reward 365
   team: kawabunga
-  amount: 10
-  created_at: '2015-08-07 23:08:55'
+  amount: 15
+  created_at: '2015-08-04 11:26:52'
 reward_366:
   subject: Reward 366
-  team: ensihaka
-  amount: 28
-  created_at: '2015-08-07 22:56:55'
+  team: akinawa
+  amount: 5
+  created_at: '2015-08-04 11:13:52'
 reward_367:
   subject: Reward 367
-  team: ensihaka
-  amount: 28
-  created_at: '2015-08-07 22:34:55'
+  team: akinawa
+  amount: 5
+  created_at: '2015-08-04 10:36:52'
 reward_368:
   subject: Reward 368
-  team: kawabunga
-  amount: 38
-  created_at: '2015-08-07 22:10:55'
+  team: agario
+  amount: 30
+  created_at: '2015-08-04 10:11:52'
 reward_369:
   subject: Reward 369
   team: agario
-  amount: 14
-  created_at: '2015-08-07 21:50:55'
+  amount: 10
+  created_at: '2015-08-04 10:04:52'
 reward_370:
   subject: Reward 370
   team: ensihaka
-  amount: 49
-  created_at: '2015-08-07 21:39:55'
+  amount: 20
+  created_at: '2015-08-04 09:09:52'
 reward_371:
   subject: Reward 371
-  team: akinawa
-  amount: 49
-  created_at: '2015-08-07 21:28:55'
+  team: agario
+  amount: 30
+  created_at: '2015-08-04 08:20:52'
 reward_372:
   subject: Reward 372
-  team: ensihaka
-  amount: 12
-  created_at: '2015-08-07 21:13:55'
+  team: agario
+  amount: 25
+  created_at: '2015-08-04 08:13:52'
 reward_373:
   subject: Reward 373
-  team: agario
-  amount: 3
-  created_at: '2015-08-07 20:45:55'
+  team: kawabunga
+  amount: 25
+  created_at: '2015-08-04 07:36:52'
 reward_374:
   subject: Reward 374
-  team: ensihaka
-  amount: 19
-  created_at: '2015-08-07 20:44:55'
+  team: agario
+  amount: 5
+  created_at: '2015-08-04 06:47:52'
 reward_375:
   subject: Reward 375
   team: akinawa
-  amount: 24
-  created_at: '2015-08-07 20:19:55'
+  amount: 30
+  created_at: '2015-08-04 06:10:52'
 reward_376:
   subject: Reward 376
-  team: kawabunga
-  amount: 19
-  created_at: '2015-08-07 20:05:55'
+  team: akinawa
+  amount: 10
+  created_at: '2015-08-04 05:39:52'
 reward_377:
   subject: Reward 377
   team: akinawa
-  amount: 6
-  created_at: '2015-08-07 19:42:55'
+  amount: 25
+  created_at: '2015-08-04 05:08:52'
 reward_378:
   subject: Reward 378
   team: kawabunga
-  amount: 24
-  created_at: '2015-08-07 19:17:55'
+  amount: 10
+  created_at: '2015-08-04 04:13:52'
 reward_379:
   subject: Reward 379
-  team: agario
-  amount: 41
-  created_at: '2015-08-07 19:09:55'
+  team: ensihaka
+  amount: 10
+  created_at: '2015-08-04 04:00:52'
 reward_380:
   subject: Reward 380
-  team: ensihaka
-  amount: 45
-  created_at: '2015-08-07 18:55:55'
+  team: kawabunga
+  amount: 25
+  created_at: '2015-08-04 03:05:52'
 reward_381:
   subject: Reward 381
   team: kawabunga
-  amount: 12
-  created_at: '2015-08-07 18:30:55'
+  amount: 20
+  created_at: '2015-08-04 02:46:52'
 reward_382:
   subject: Reward 382
-  team: ensihaka
-  amount: 1
-  created_at: '2015-08-07 18:09:55'
+  team: kawabunga
+  amount: 5
+  created_at: '2015-08-04 01:57:52'
 reward_383:
   subject: Reward 383
-  team: ensihaka
-  amount: 14
-  created_at: '2015-08-07 18:04:55'
+  team: agario
+  amount: 10
+  created_at: '2015-08-04 01:38:52'
 reward_384:
   subject: Reward 384
   team: kawabunga
-  amount: 26
-  created_at: '2015-08-07 17:41:55'
+  amount: 25
+  created_at: '2015-08-04 01:13:52'
 reward_385:
   subject: Reward 385
-  team: kawabunga
-  amount: 31
-  created_at: '2015-08-07 17:38:55'
+  team: akinawa
+  amount: 25
+  created_at: '2015-08-04 00:30:52'
 reward_386:
   subject: Reward 386
   team: agario
-  amount: 30
-  created_at: '2015-08-07 17:13:55'
+  amount: 25
+  created_at: '2015-08-04 00:05:52'
 reward_387:
   subject: Reward 387
-  team: agario
-  amount: 39
-  created_at: '2015-08-07 17:05:55'
+  team: akinawa
+  amount: 5
+  created_at: '2015-08-03 23:22:52'
 reward_388:
   subject: Reward 388
-  team: kawabunga
-  amount: 31
-  created_at: '2015-08-07 16:41:55'
+  team: ensihaka
+  amount: 10
+  created_at: '2015-08-03 23:15:52'
 reward_389:
   subject: Reward 389
   team: akinawa
-  amount: 14
-  created_at: '2015-08-07 16:15:55'
+  amount: 20
+  created_at: '2015-08-03 22:26:52'
 reward_390:
   subject: Reward 390
   team: akinawa
-  amount: 21
-  created_at: '2015-08-07 15:51:55'
+  amount: 10
+  created_at: '2015-08-03 21:55:52'
 reward_391:
   subject: Reward 391
   team: ensihaka
-  amount: 1
-  created_at: '2015-08-07 15:38:55'
+  amount: 15
+  created_at: '2015-08-03 21:00:52'
 reward_392:
   subject: Reward 392
-  team: akinawa
-  amount: 34
-  created_at: '2015-08-07 15:10:55'
+  team: kawabunga
+  amount: 30
+  created_at: '2015-08-03 20:17:52'
 reward_393:
   subject: Reward 393
   team: ensihaka
-  amount: 31
-  created_at: '2015-08-07 15:03:55'
+  amount: 25
+  created_at: '2015-08-03 19:46:52'
 reward_394:
   subject: Reward 394
   team: agario
-  amount: 6
-  created_at: '2015-08-07 14:46:55'
+  amount: 10
+  created_at: '2015-08-03 19:39:52'
 reward_395:
   subject: Reward 395
-  team: akinawa
-  amount: 39
-  created_at: '2015-08-07 14:26:55'
+  team: kawabunga
+  amount: 5
+  created_at: '2015-08-03 19:08:52'
 reward_396:
   subject: Reward 396
-  team: kawabunga
-  amount: 31
-  created_at: '2015-08-07 14:17:55'
+  team: akinawa
+  amount: 15
+  created_at: '2015-08-03 18:19:52'
 reward_397:
   subject: Reward 397
-  team: akinawa
-  amount: 20
-  created_at: '2015-08-07 14:10:55'
+  team: ensihaka
+  amount: 5
+  created_at: '2015-08-03 18:00:52'
 reward_398:
   subject: Reward 398
-  team: agario
-  amount: 31
-  created_at: '2015-08-07 14:09:55'
+  team: kawabunga
+  amount: 5
+  created_at: '2015-08-03 17:41:52'
 reward_399:
   subject: Reward 399
   team: kawabunga
-  amount: 42
-  created_at: '2015-08-07 13:48:55'
-reward_400:
-  subject: Reward 400
-  team: agario
-  amount: 19
-  created_at: '2015-08-07 13:37:55'
-reward_401:
-  subject: Reward 401
-  team: agario
-  amount: 4
-  created_at: '2015-08-07 13:25:55'
-reward_402:
-  subject: Reward 402
-  team: akinawa
-  amount: 12
-  created_at: '2015-08-07 13:01:55'
-reward_403:
-  subject: Reward 403
-  team: ensihaka
-  amount: 13
-  created_at: '2015-08-07 12:58:55'
-reward_404:
-  subject: Reward 404
-  team: ensihaka
-  amount: 0
-  created_at: '2015-08-07 12:49:55'
-reward_405:
-  subject: Reward 405
-  team: agario
-  amount: 25
-  created_at: '2015-08-07 12:46:55'
-reward_406:
-  subject: Reward 406
-  team: kawabunga
-  amount: 36
-  created_at: '2015-08-07 12:18:55'
-reward_407:
-  subject: Reward 407
-  team: akinawa
-  amount: 40
-  created_at: '2015-08-07 12:13:55'
-reward_408:
-  subject: Reward 408
-  team: akinawa
-  amount: 41
-  created_at: '2015-08-07 11:50:55'
-reward_409:
-  subject: Reward 409
-  team: kawabunga
-  amount: 19
-  created_at: '2015-08-07 11:47:55'
-reward_410:
-  subject: Reward 410
-  team: agario
-  amount: 46
-  created_at: '2015-08-07 11:37:55'
-reward_411:
-  subject: Reward 411
-  team: kawabunga
-  amount: 32
-  created_at: '2015-08-07 11:34:55'
-reward_412:
-  subject: Reward 412
-  team: agario
-  amount: 22
-  created_at: '2015-08-07 11:18:55'
-reward_413:
-  subject: Reward 413
-  team: ensihaka
-  amount: 14
-  created_at: '2015-08-07 10:53:55'
-reward_414:
-  subject: Reward 414
-  team: ensihaka
-  amount: 9
-  created_at: '2015-08-07 10:49:55'
-reward_415:
-  subject: Reward 415
-  team: kawabunga
-  amount: 4
-  created_at: '2015-08-07 10:28:55'
-reward_416:
-  subject: Reward 416
-  team: ensihaka
-  amount: 24
-  created_at: '2015-08-07 10:06:55'
-reward_417:
-  subject: Reward 417
-  team: akinawa
-  amount: 22
-  created_at: '2015-08-07 09:39:55'
-reward_418:
-  subject: Reward 418
-  team: ensihaka
-  amount: 19
-  created_at: '2015-08-07 09:31:55'
-reward_419:
-  subject: Reward 419
-  team: ensihaka
-  amount: 8
-  created_at: '2015-08-07 09:07:55'
-reward_420:
-  subject: Reward 420
-  team: kawabunga
-  amount: 47
-  created_at: '2015-08-07 08:59:55'
-reward_421:
-  subject: Reward 421
-  team: agario
-  amount: 49
-  created_at: '2015-08-07 08:57:55'
-reward_422:
-  subject: Reward 422
-  team: ensihaka
-  amount: 45
-  created_at: '2015-08-07 08:43:55'
-reward_423:
-  subject: Reward 423
-  team: agario
-  amount: 48
-  created_at: '2015-08-07 08:39:55'
-reward_424:
-  subject: Reward 424
-  team: akinawa
-  amount: 24
-  created_at: '2015-08-07 08:10:55'
-reward_425:
-  subject: Reward 425
-  team: agario
-  amount: 35
-  created_at: '2015-08-07 07:54:55'
-reward_426:
-  subject: Reward 426
-  team: kawabunga
   amount: 30
-  created_at: '2015-08-07 07:40:55'
-reward_427:
-  subject: Reward 427
-  team: kawabunga
-  amount: 49
-  created_at: '2015-08-07 07:25:55'
-reward_428:
-  subject: Reward 428
-  team: akinawa
-  amount: 46
-  created_at: '2015-08-07 07:21:55'
-reward_429:
-  subject: Reward 429
-  team: ensihaka
-  amount: 21
-  created_at: '2015-08-07 06:56:55'
-reward_430:
-  subject: Reward 430
-  team: kawabunga
-  amount: 40
-  created_at: '2015-08-07 06:43:55'
-reward_431:
-  subject: Reward 431
-  team: agario
-  amount: 1
-  created_at: '2015-08-07 06:24:55'
-reward_432:
-  subject: Reward 432
-  team: ensihaka
-  amount: 7
-  created_at: '2015-08-07 06:01:55'
-reward_433:
-  subject: Reward 433
-  team: akinawa
-  amount: 7
-  created_at: '2015-08-07 05:59:55'
-reward_434:
-  subject: Reward 434
-  team: kawabunga
-  amount: 19
-  created_at: '2015-08-07 05:46:55'
-reward_435:
-  subject: Reward 435
-  team: agario
-  amount: 13
-  created_at: '2015-08-07 05:31:55'
-reward_436:
-  subject: Reward 436
-  team: ensihaka
-  amount: 15
-  created_at: '2015-08-07 05:16:55'
-reward_437:
-  subject: Reward 437
-  team: ensihaka
-  amount: 41
-  created_at: '2015-08-07 04:58:55'
-reward_438:
-  subject: Reward 438
-  team: akinawa
-  amount: 0
-  created_at: '2015-08-07 04:53:55'
-reward_439:
-  subject: Reward 439
-  team: kawabunga
-  amount: 41
-  created_at: '2015-08-07 04:43:55'
-reward_440:
-  subject: Reward 440
-  team: ensihaka
-  amount: 32
-  created_at: '2015-08-07 04:23:55'
-reward_441:
-  subject: Reward 441
-  team: akinawa
-  amount: 41
-  created_at: '2015-08-07 04:09:55'
-reward_442:
-  subject: Reward 442
-  team: agario
-  amount: 13
-  created_at: '2015-08-07 03:42:55'
-reward_443:
-  subject: Reward 443
-  team: kawabunga
-  amount: 18
-  created_at: '2015-08-07 03:25:55'
-reward_444:
-  subject: Reward 444
-  team: ensihaka
-  amount: 31
-  created_at: '2015-08-07 03:12:55'
-reward_445:
-  subject: Reward 445
-  team: kawabunga
-  amount: 35
-  created_at: '2015-08-07 02:51:55'
-reward_446:
-  subject: Reward 446
-  team: kawabunga
-  amount: 3
-  created_at: '2015-08-07 02:39:55'
-reward_447:
-  subject: Reward 447
-  team: ensihaka
-  amount: 27
-  created_at: '2015-08-07 02:33:55'
-reward_448:
-  subject: Reward 448
-  team: ensihaka
-  amount: 2
-  created_at: '2015-08-07 02:30:55'
-reward_449:
-  subject: Reward 449
-  team: agario
-  amount: 1
-  created_at: '2015-08-07 02:20:55'
-reward_450:
-  subject: Reward 450
-  team: akinawa
-  amount: 29
-  created_at: '2015-08-07 01:56:55'
-reward_451:
-  subject: Reward 451
-  team: agario
-  amount: 19
-  created_at: '2015-08-07 01:55:55'
-reward_452:
-  subject: Reward 452
-  team: akinawa
-  amount: 0
-  created_at: '2015-08-07 01:35:55'
-reward_453:
-  subject: Reward 453
-  team: ensihaka
-  amount: 22
-  created_at: '2015-08-07 01:33:55'
-reward_454:
-  subject: Reward 454
-  team: ensihaka
-  amount: 16
-  created_at: '2015-08-07 01:15:55'
-reward_455:
-  subject: Reward 455
-  team: kawabunga
-  amount: 42
-  created_at: '2015-08-07 00:59:55'
-reward_456:
-  subject: Reward 456
-  team: kawabunga
-  amount: 2
-  created_at: '2015-08-07 00:49:55'
-reward_457:
-  subject: Reward 457
-  team: kawabunga
-  amount: 45
-  created_at: '2015-08-07 00:38:55'
-reward_458:
-  subject: Reward 458
-  team: akinawa
-  amount: 35
-  created_at: '2015-08-07 00:28:55'
-reward_459:
-  subject: Reward 459
-  team: akinawa
-  amount: 11
-  created_at: '2015-08-07 00:18:55'
-reward_460:
-  subject: Reward 460
-  team: kawabunga
-  amount: 1
-  created_at: '2015-08-07 00:04:55'
-reward_461:
-  subject: Reward 461
-  team: ensihaka
-  amount: 30
-  created_at: '2015-08-06 23:56:55'
-reward_462:
-  subject: Reward 462
-  team: ensihaka
-  amount: 28
-  created_at: '2015-08-06 23:36:55'
-reward_463:
-  subject: Reward 463
-  team: kawabunga
-  amount: 45
-  created_at: '2015-08-06 23:14:55'
-reward_464:
-  subject: Reward 464
-  team: kawabunga
-  amount: 38
-  created_at: '2015-08-06 22:51:55'
-reward_465:
-  subject: Reward 465
-  team: akinawa
-  amount: 9
-  created_at: '2015-08-06 22:35:55'
-reward_466:
-  subject: Reward 466
-  team: akinawa
-  amount: 18
-  created_at: '2015-08-06 22:25:55'
-reward_467:
-  subject: Reward 467
-  team: ensihaka
-  amount: 42
-  created_at: '2015-08-06 22:18:55'
-reward_468:
-  subject: Reward 468
-  team: akinawa
-  amount: 49
-  created_at: '2015-08-06 22:15:55'
-reward_469:
-  subject: Reward 469
-  team: ensihaka
-  amount: 16
-  created_at: '2015-08-06 21:51:55'
-reward_470:
-  subject: Reward 470
-  team: ensihaka
-  amount: 8
-  created_at: '2015-08-06 21:34:55'
-reward_471:
-  subject: Reward 471
-  team: kawabunga
-  amount: 23
-  created_at: '2015-08-06 21:12:55'
-reward_472:
-  subject: Reward 472
-  team: akinawa
-  amount: 43
-  created_at: '2015-08-06 21:01:55'
-reward_473:
-  subject: Reward 473
-  team: agario
-  amount: 7
-  created_at: '2015-08-06 20:51:55'
-reward_474:
-  subject: Reward 474
-  team: akinawa
-  amount: 40
-  created_at: '2015-08-06 20:34:55'
-reward_475:
-  subject: Reward 475
-  team: agario
-  amount: 2
-  created_at: '2015-08-06 20:17:55'
-reward_476:
-  subject: Reward 476
-  team: kawabunga
-  amount: 44
-  created_at: '2015-08-06 20:09:55'
-reward_477:
-  subject: Reward 477
-  team: ensihaka
-  amount: 22
-  created_at: '2015-08-06 20:06:55'
-reward_478:
-  subject: Reward 478
-  team: agario
-  amount: 14
-  created_at: '2015-08-06 20:00:55'
-reward_479:
-  subject: Reward 479
-  team: agario
-  amount: 6
-  created_at: '2015-08-06 19:41:55'
-reward_480:
-  subject: Reward 480
-  team: agario
-  amount: 46
-  created_at: '2015-08-06 19:39:55'
-reward_481:
-  subject: Reward 481
-  team: ensihaka
-  amount: 30
-  created_at: '2015-08-06 19:18:55'
-reward_482:
-  subject: Reward 482
-  team: kawabunga
-  amount: 1
-  created_at: '2015-08-06 19:00:55'
-reward_483:
-  subject: Reward 483
-  team: akinawa
-  amount: 20
-  created_at: '2015-08-06 18:48:55'
-reward_484:
-  subject: Reward 484
-  team: kawabunga
-  amount: 18
-  created_at: '2015-08-06 18:28:55'
-reward_485:
-  subject: Reward 485
-  team: kawabunga
-  amount: 16
-  created_at: '2015-08-06 18:21:55'
-reward_486:
-  subject: Reward 486
-  team: ensihaka
-  amount: 32
-  created_at: '2015-08-06 18:05:55'
-reward_487:
-  subject: Reward 487
-  team: ensihaka
-  amount: 5
-  created_at: '2015-08-06 17:46:55'
-reward_488:
-  subject: Reward 488
-  team: kawabunga
-  amount: 36
-  created_at: '2015-08-06 17:45:55'
-reward_489:
-  subject: Reward 489
-  team: kawabunga
-  amount: 27
-  created_at: '2015-08-06 17:28:55'
-reward_490:
-  subject: Reward 490
-  team: akinawa
-  amount: 29
-  created_at: '2015-08-06 17:24:55'
-reward_491:
-  subject: Reward 491
-  team: akinawa
-  amount: 46
-  created_at: '2015-08-06 17:22:55'
-reward_492:
-  subject: Reward 492
-  team: agario
-  amount: 32
-  created_at: '2015-08-06 17:13:55'
-reward_493:
-  subject: Reward 493
-  team: kawabunga
-  amount: 32
-  created_at: '2015-08-06 16:55:55'
-reward_494:
-  subject: Reward 494
-  team: ensihaka
-  amount: 37
-  created_at: '2015-08-06 16:44:55'
-reward_495:
-  subject: Reward 495
-  team: ensihaka
-  amount: 41
-  created_at: '2015-08-06 16:35:55'
-reward_496:
-  subject: Reward 496
-  team: agario
-  amount: 8
-  created_at: '2015-08-06 16:12:55'
-reward_497:
-  subject: Reward 497
-  team: akinawa
-  amount: 38
-  created_at: '2015-08-06 16:06:55'
-reward_498:
-  subject: Reward 498
-  team: ensihaka
-  amount: 29
-  created_at: '2015-08-06 15:45:55'
-reward_499:
-  subject: Reward 499
-  team: akinawa
-  amount: 25
-  created_at: '2015-08-06 15:42:55'
-reward_500:
-  subject: Reward 500
-  team: kawabunga
-  amount: 28
-  created_at: '2015-08-06 15:30:55'
-reward_501:
-  subject: Reward 501
-  team: ensihaka
-  amount: 49
-  created_at: '2015-08-06 15:17:55'
-reward_502:
-  subject: Reward 502
-  team: kawabunga
-  amount: 15
-  created_at: '2015-08-06 14:54:55'
-reward_503:
-  subject: Reward 503
-  team: agario
-  amount: 39
-  created_at: '2015-08-06 14:32:55'
-reward_504:
-  subject: Reward 504
-  team: akinawa
-  amount: 24
-  created_at: '2015-08-06 14:18:55'
-reward_505:
-  subject: Reward 505
-  team: agario
-  amount: 32
-  created_at: '2015-08-06 14:17:55'
-reward_506:
-  subject: Reward 506
-  team: ensihaka
-  amount: 4
-  created_at: '2015-08-06 14:03:55'
-reward_507:
-  subject: Reward 507
-  team: ensihaka
-  amount: 15
-  created_at: '2015-08-06 13:40:55'
-reward_508:
-  subject: Reward 508
-  team: kawabunga
-  amount: 11
-  created_at: '2015-08-06 13:24:55'
-reward_509:
-  subject: Reward 509
-  team: kawabunga
-  amount: 37
-  created_at: '2015-08-06 13:03:55'
-reward_510:
-  subject: Reward 510
-  team: kawabunga
-  amount: 48
-  created_at: '2015-08-06 12:56:55'
-reward_511:
-  subject: Reward 511
-  team: agario
-  amount: 19
-  created_at: '2015-08-06 12:33:55'
-reward_512:
-  subject: Reward 512
-  team: akinawa
-  amount: 15
-  created_at: '2015-08-06 12:07:55'
-reward_513:
-  subject: Reward 513
-  team: kawabunga
-  amount: 26
-  created_at: '2015-08-06 11:39:55'
-reward_514:
-  subject: Reward 514
-  team: ensihaka
-  amount: 22
-  created_at: '2015-08-06 11:24:55'
-reward_515:
-  subject: Reward 515
-  team: ensihaka
-  amount: 37
-  created_at: '2015-08-06 11:13:55'
-reward_516:
-  subject: Reward 516
-  team: akinawa
-  amount: 49
-  created_at: '2015-08-06 10:45:55'
-reward_517:
-  subject: Reward 517
-  team: akinawa
-  amount: 15
-  created_at: '2015-08-06 10:17:55'
-reward_518:
-  subject: Reward 518
-  team: agario
-  amount: 22
-  created_at: '2015-08-06 09:55:55'
-reward_519:
-  subject: Reward 519
-  team: ensihaka
-  amount: 27
-  created_at: '2015-08-06 09:28:55'
-reward_520:
-  subject: Reward 520
-  team: agario
-  amount: 48
-  created_at: '2015-08-06 09:02:55'
-reward_521:
-  subject: Reward 521
-  team: kawabunga
-  amount: 28
-  created_at: '2015-08-06 08:56:55'
-reward_522:
-  subject: Reward 522
-  team: agario
-  amount: 37
-  created_at: '2015-08-06 08:33:55'
-reward_523:
-  subject: Reward 523
-  team: ensihaka
-  amount: 8
-  created_at: '2015-08-06 08:23:55'
-reward_524:
-  subject: Reward 524
-  team: akinawa
-  amount: 14
-  created_at: '2015-08-06 08:15:55'
-reward_525:
-  subject: Reward 525
-  team: kawabunga
-  amount: 41
-  created_at: '2015-08-06 08:08:55'
-reward_526:
-  subject: Reward 526
-  team: ensihaka
-  amount: 43
-  created_at: '2015-08-06 07:41:55'
-reward_527:
-  subject: Reward 527
-  team: ensihaka
-  amount: 3
-  created_at: '2015-08-06 07:17:55'
-reward_528:
-  subject: Reward 528
-  team: kawabunga
-  amount: 27
-  created_at: '2015-08-06 06:59:55'
-reward_529:
-  subject: Reward 529
-  team: ensihaka
-  amount: 33
-  created_at: '2015-08-06 06:34:55'
-reward_530:
-  subject: Reward 530
-  team: kawabunga
-  amount: 17
-  created_at: '2015-08-06 06:28:55'
-reward_531:
-  subject: Reward 531
-  team: akinawa
-  amount: 17
-  created_at: '2015-08-06 06:09:55'
-reward_532:
-  subject: Reward 532
-  team: agario
-  amount: 42
-  created_at: '2015-08-06 05:54:55'
-reward_533:
-  subject: Reward 533
-  team: ensihaka
-  amount: 26
-  created_at: '2015-08-06 05:37:55'
-reward_534:
-  subject: Reward 534
-  team: ensihaka
-  amount: 34
-  created_at: '2015-08-06 05:25:55'
-reward_535:
-  subject: Reward 535
-  team: kawabunga
-  amount: 42
-  created_at: '2015-08-06 05:03:55'
-reward_536:
-  subject: Reward 536
-  team: ensihaka
-  amount: 30
-  created_at: '2015-08-06 05:00:55'
-reward_537:
-  subject: Reward 537
-  team: akinawa
-  amount: 11
-  created_at: '2015-08-06 04:51:55'
-reward_538:
-  subject: Reward 538
-  team: agario
-  amount: 14
-  created_at: '2015-08-06 04:31:55'
-reward_539:
-  subject: Reward 539
-  team: kawabunga
-  amount: 34
-  created_at: '2015-08-06 04:10:55'
-reward_540:
-  subject: Reward 540
-  team: akinawa
-  amount: 34
-  created_at: '2015-08-06 04:09:55'
-reward_541:
-  subject: Reward 541
-  team: akinawa
-  amount: 18
-  created_at: '2015-08-06 03:52:55'
-reward_542:
-  subject: Reward 542
-  team: ensihaka
-  amount: 32
-  created_at: '2015-08-06 03:42:55'
-reward_543:
-  subject: Reward 543
-  team: kawabunga
-  amount: 20
-  created_at: '2015-08-06 03:38:55'
-reward_544:
-  subject: Reward 544
-  team: agario
-  amount: 2
-  created_at: '2015-08-06 03:20:55'
-reward_545:
-  subject: Reward 545
-  team: akinawa
-  amount: 20
-  created_at: '2015-08-06 03:04:55'
-reward_546:
-  subject: Reward 546
-  team: kawabunga
-  amount: 10
-  created_at: '2015-08-06 02:41:55'
-reward_547:
-  subject: Reward 547
-  team: kawabunga
-  amount: 8
-  created_at: '2015-08-06 02:23:55'
-reward_548:
-  subject: Reward 548
-  team: ensihaka
-  amount: 1
-  created_at: '2015-08-06 02:01:55'
-reward_549:
-  subject: Reward 549
-  team: ensihaka
-  amount: 18
-  created_at: '2015-08-06 01:34:55'
-reward_550:
-  subject: Reward 550
-  team: kawabunga
-  amount: 40
-  created_at: '2015-08-06 01:05:55'
-reward_551:
-  subject: Reward 551
-  team: kawabunga
-  amount: 31
-  created_at: '2015-08-06 00:44:55'
-reward_552:
-  subject: Reward 552
-  team: ensihaka
-  amount: 35
-  created_at: '2015-08-06 00:33:55'
-reward_553:
-  subject: Reward 553
-  team: kawabunga
-  amount: 0
-  created_at: '2015-08-06 00:24:55'
-reward_554:
-  subject: Reward 554
-  team: ensihaka
-  amount: 22
-  created_at: '2015-08-06 00:19:55'
-reward_555:
-  subject: Reward 555
-  team: kawabunga
-  amount: 34
-  created_at: '2015-08-06 00:07:55'
-reward_556:
-  subject: Reward 556
-  team: akinawa
-  amount: 17
-  created_at: '2015-08-05 23:39:55'
-reward_557:
-  subject: Reward 557
-  team: kawabunga
-  amount: 8
-  created_at: '2015-08-05 23:13:55'
-reward_558:
-  subject: Reward 558
-  team: agario
-  amount: 6
-  created_at: '2015-08-05 23:10:55'
-reward_559:
-  subject: Reward 559
-  team: kawabunga
-  amount: 45
-  created_at: '2015-08-05 22:50:55'
-reward_560:
-  subject: Reward 560
-  team: ensihaka
-  amount: 9
-  created_at: '2015-08-05 22:28:55'
-reward_561:
-  subject: Reward 561
-  team: akinawa
-  amount: 39
-  created_at: '2015-08-05 22:06:55'
-reward_562:
-  subject: Reward 562
-  team: ensihaka
-  amount: 27
-  created_at: '2015-08-05 21:55:55'
-reward_563:
-  subject: Reward 563
-  team: kawabunga
-  amount: 19
-  created_at: '2015-08-05 21:50:55'
-reward_564:
-  subject: Reward 564
-  team: kawabunga
-  amount: 13
-  created_at: '2015-08-05 21:36:55'
-reward_565:
-  subject: Reward 565
-  team: akinawa
-  amount: 33
-  created_at: '2015-08-05 21:30:55'
-reward_566:
-  subject: Reward 566
-  team: ensihaka
-  amount: 26
-  created_at: '2015-08-05 21:10:55'
-reward_567:
-  subject: Reward 567
-  team: agario
-  amount: 5
-  created_at: '2015-08-05 21:07:55'
-reward_568:
-  subject: Reward 568
-  team: kawabunga
-  amount: 40
-  created_at: '2015-08-05 20:40:55'
-reward_569:
-  subject: Reward 569
-  team: agario
-  amount: 2
-  created_at: '2015-08-05 20:26:55'
-reward_570:
-  subject: Reward 570
-  team: akinawa
-  amount: 48
-  created_at: '2015-08-05 20:23:55'
-reward_571:
-  subject: Reward 571
-  team: akinawa
-  amount: 11
-  created_at: '2015-08-05 19:59:55'
-reward_572:
-  subject: Reward 572
-  team: agario
-  amount: 38
-  created_at: '2015-08-05 19:45:55'
-reward_573:
-  subject: Reward 573
-  team: agario
-  amount: 45
-  created_at: '2015-08-05 19:36:55'
-reward_574:
-  subject: Reward 574
-  team: agario
-  amount: 32
-  created_at: '2015-08-05 19:33:55'
-reward_575:
-  subject: Reward 575
-  team: akinawa
-  amount: 10
-  created_at: '2015-08-05 19:04:55'
-reward_576:
-  subject: Reward 576
-  team: kawabunga
-  amount: 6
-  created_at: '2015-08-05 18:59:55'
-reward_577:
-  subject: Reward 577
-  team: ensihaka
-  amount: 33
-  created_at: '2015-08-05 18:35:55'
-reward_578:
-  subject: Reward 578
-  team: agario
-  amount: 22
-  created_at: '2015-08-05 18:10:55'
-reward_579:
-  subject: Reward 579
-  team: kawabunga
-  amount: 23
-  created_at: '2015-08-05 17:45:55'
-reward_580:
-  subject: Reward 580
-  team: ensihaka
-  amount: 18
-  created_at: '2015-08-05 17:19:55'
-reward_581:
-  subject: Reward 581
-  team: agario
-  amount: 28
-  created_at: '2015-08-05 16:59:55'
-reward_582:
-  subject: Reward 582
-  team: ensihaka
-  amount: 22
-  created_at: '2015-08-05 16:44:55'
-reward_583:
-  subject: Reward 583
-  team: kawabunga
-  amount: 1
-  created_at: '2015-08-05 16:21:55'
-reward_584:
-  subject: Reward 584
-  team: agario
-  amount: 49
-  created_at: '2015-08-05 16:11:55'
-reward_585:
-  subject: Reward 585
-  team: akinawa
-  amount: 5
-  created_at: '2015-08-05 16:03:55'
-reward_586:
-  subject: Reward 586
-  team: akinawa
-  amount: 5
-  created_at: '2015-08-05 15:59:55'
-reward_587:
-  subject: Reward 587
-  team: agario
-  amount: 38
-  created_at: '2015-08-05 15:36:55'
-reward_588:
-  subject: Reward 588
-  team: agario
-  amount: 28
-  created_at: '2015-08-05 15:15:55'
-reward_589:
-  subject: Reward 589
-  team: akinawa
-  amount: 9
-  created_at: '2015-08-05 15:07:55'
-reward_590:
-  subject: Reward 590
-  team: ensihaka
-  amount: 2
-  created_at: '2015-08-05 14:57:55'
-reward_591:
-  subject: Reward 591
-  team: agario
-  amount: 12
-  created_at: '2015-08-05 14:45:55'
-reward_592:
-  subject: Reward 592
-  team: ensihaka
-  amount: 31
-  created_at: '2015-08-05 14:26:55'
-reward_593:
-  subject: Reward 593
-  team: agario
-  amount: 31
-  created_at: '2015-08-05 14:08:55'
-reward_594:
-  subject: Reward 594
-  team: akinawa
-  amount: 8
-  created_at: '2015-08-05 13:43:55'
-reward_595:
-  subject: Reward 595
-  team: kawabunga
-  amount: 27
-  created_at: '2015-08-05 13:28:55'
-reward_596:
-  subject: Reward 596
-  team: ensihaka
-  amount: 33
-  created_at: '2015-08-05 13:13:55'
-reward_597:
-  subject: Reward 597
-  team: akinawa
-  amount: 38
-  created_at: '2015-08-05 12:47:55'
-reward_598:
-  subject: Reward 598
-  team: akinawa
-  amount: 25
-  created_at: '2015-08-05 12:28:55'
-reward_599:
-  subject: Reward 599
-  team: agario
-  amount: 48
-  created_at: '2015-08-05 12:24:55'
-reward_600:
-  subject: Reward 600
-  team: agario
-  amount: 24
-  created_at: '2015-08-05 12:03:55'
-reward_601:
-  subject: Reward 601
-  team: akinawa
-  amount: 20
-  created_at: '2015-08-05 11:38:55'
-reward_602:
-  subject: Reward 602
-  team: akinawa
-  amount: 41
-  created_at: '2015-08-05 11:33:55'
-reward_603:
-  subject: Reward 603
-  team: akinawa
-  amount: 16
-  created_at: '2015-08-05 11:30:55'
-reward_604:
-  subject: Reward 604
-  team: akinawa
-  amount: 47
-  created_at: '2015-08-05 11:11:55'
-reward_605:
-  subject: Reward 605
-  team: akinawa
-  amount: 9
-  created_at: '2015-08-05 10:49:55'
-reward_606:
-  subject: Reward 606
-  team: akinawa
-  amount: 49
-  created_at: '2015-08-05 10:24:55'
-reward_607:
-  subject: Reward 607
-  team: kawabunga
-  amount: 26
-  created_at: '2015-08-05 10:02:55'
-reward_608:
-  subject: Reward 608
-  team: agario
-  amount: 40
-  created_at: '2015-08-05 09:38:55'
-reward_609:
-  subject: Reward 609
-  team: agario
-  amount: 28
-  created_at: '2015-08-05 09:12:55'
-reward_610:
-  subject: Reward 610
-  team: ensihaka
-  amount: 14
-  created_at: '2015-08-05 08:51:55'
-reward_611:
-  subject: Reward 611
-  team: akinawa
-  amount: 38
-  created_at: '2015-08-05 08:50:55'
-reward_612:
-  subject: Reward 612
-  team: akinawa
-  amount: 31
-  created_at: '2015-08-05 08:42:55'
-reward_613:
-  subject: Reward 613
-  team: ensihaka
-  amount: 4
-  created_at: '2015-08-05 08:28:55'
-reward_614:
-  subject: Reward 614
-  team: akinawa
-  amount: 11
-  created_at: '2015-08-05 08:07:55'
-reward_615:
-  subject: Reward 615
-  team: ensihaka
-  amount: 13
-  created_at: '2015-08-05 08:00:55'
-reward_616:
-  subject: Reward 616
-  team: kawabunga
-  amount: 48
-  created_at: '2015-08-05 07:47:55'
-reward_617:
-  subject: Reward 617
-  team: kawabunga
-  amount: 22
-  created_at: '2015-08-05 07:33:55'
-reward_618:
-  subject: Reward 618
-  team: agario
-  amount: 5
-  created_at: '2015-08-05 07:08:55'
-reward_619:
-  subject: Reward 619
-  team: kawabunga
-  amount: 7
-  created_at: '2015-08-05 06:48:55'
-reward_620:
-  subject: Reward 620
-  team: akinawa
-  amount: 8
-  created_at: '2015-08-05 06:30:55'
-reward_621:
-  subject: Reward 621
-  team: ensihaka
-  amount: 34
-  created_at: '2015-08-05 06:19:55'
-reward_622:
-  subject: Reward 622
-  team: ensihaka
-  amount: 49
-  created_at: '2015-08-05 06:06:55'
-reward_623:
-  subject: Reward 623
-  team: kawabunga
-  amount: 29
-  created_at: '2015-08-05 05:51:55'
-reward_624:
-  subject: Reward 624
-  team: ensihaka
-  amount: 24
-  created_at: '2015-08-05 05:46:55'
-reward_625:
-  subject: Reward 625
-  team: kawabunga
-  amount: 40
-  created_at: '2015-08-05 05:42:55'
-reward_626:
-  subject: Reward 626
-  team: agario
-  amount: 9
-  created_at: '2015-08-05 05:33:55'
-reward_627:
-  subject: Reward 627
-  team: akinawa
-  amount: 26
-  created_at: '2015-08-05 05:32:55'
-reward_628:
-  subject: Reward 628
-  team: kawabunga
-  amount: 42
-  created_at: '2015-08-05 05:08:55'
-reward_629:
-  subject: Reward 629
-  team: kawabunga
-  amount: 23
-  created_at: '2015-08-05 04:49:55'
-reward_630:
-  subject: Reward 630
-  team: kawabunga
-  amount: 9
-  created_at: '2015-08-05 04:25:55'
-reward_631:
-  subject: Reward 631
-  team: agario
-  amount: 26
-  created_at: '2015-08-05 04:20:55'
-reward_632:
-  subject: Reward 632
-  team: ensihaka
-  amount: 36
-  created_at: '2015-08-05 04:09:55'
-reward_633:
-  subject: Reward 633
-  team: ensihaka
-  amount: 6
-  created_at: '2015-08-05 03:44:55'
-reward_634:
-  subject: Reward 634
-  team: kawabunga
-  amount: 38
-  created_at: '2015-08-05 03:39:55'
-reward_635:
-  subject: Reward 635
-  team: ensihaka
-  amount: 36
-  created_at: '2015-08-05 03:31:55'
-reward_636:
-  subject: Reward 636
-  team: ensihaka
-  amount: 28
-  created_at: '2015-08-05 03:26:55'
-reward_637:
-  subject: Reward 637
-  team: agario
-  amount: 19
-  created_at: '2015-08-05 03:03:55'
-reward_638:
-  subject: Reward 638
-  team: akinawa
-  amount: 23
-  created_at: '2015-08-05 02:58:55'
-reward_639:
-  subject: Reward 639
-  team: agario
-  amount: 0
-  created_at: '2015-08-05 02:31:55'
-reward_640:
-  subject: Reward 640
-  team: akinawa
-  amount: 20
-  created_at: '2015-08-05 02:28:55'
-reward_641:
-  subject: Reward 641
-  team: agario
-  amount: 0
-  created_at: '2015-08-05 02:27:55'
-reward_642:
-  subject: Reward 642
-  team: ensihaka
-  amount: 38
-  created_at: '2015-08-05 02:00:55'
-reward_643:
-  subject: Reward 643
-  team: akinawa
-  amount: 13
-  created_at: '2015-08-05 01:41:55'
-reward_644:
-  subject: Reward 644
-  team: ensihaka
-  amount: 15
-  created_at: '2015-08-05 01:24:55'
-reward_645:
-  subject: Reward 645
-  team: akinawa
-  amount: 22
-  created_at: '2015-08-05 01:15:55'
-reward_646:
-  subject: Reward 646
-  team: kawabunga
-  amount: 29
-  created_at: '2015-08-05 01:00:55'
-reward_647:
-  subject: Reward 647
-  team: akinawa
-  amount: 43
-  created_at: '2015-08-05 00:42:55'
-reward_648:
-  subject: Reward 648
-  team: agario
-  amount: 12
-  created_at: '2015-08-05 00:38:55'
-reward_649:
-  subject: Reward 649
-  team: akinawa
-  amount: 37
-  created_at: '2015-08-05 00:37:55'
-reward_650:
-  subject: Reward 650
-  team: ensihaka
-  amount: 4
-  created_at: '2015-08-05 00:08:55'
-reward_651:
-  subject: Reward 651
-  team: akinawa
-  amount: 46
-  created_at: '2015-08-04 23:50:55'
-reward_652:
-  subject: Reward 652
-  team: akinawa
-  amount: 30
-  created_at: '2015-08-04 23:39:55'
-reward_653:
-  subject: Reward 653
-  team: agario
-  amount: 22
-  created_at: '2015-08-04 23:14:55'
-reward_654:
-  subject: Reward 654
-  team: agario
-  amount: 23
-  created_at: '2015-08-04 22:54:55'
-reward_655:
-  subject: Reward 655
-  team: ensihaka
-  amount: 49
-  created_at: '2015-08-04 22:35:55'
-reward_656:
-  subject: Reward 656
-  team: kawabunga
-  amount: 32
-  created_at: '2015-08-04 22:08:55'
-reward_657:
-  subject: Reward 657
-  team: kawabunga
-  amount: 38
-  created_at: '2015-08-04 21:54:55'
-reward_658:
-  subject: Reward 658
-  team: akinawa
-  amount: 5
-  created_at: '2015-08-04 21:49:55'
-reward_659:
-  subject: Reward 659
-  team: agario
-  amount: 1
-  created_at: '2015-08-04 21:37:55'
-reward_660:
-  subject: Reward 660
-  team: kawabunga
-  amount: 25
-  created_at: '2015-08-04 21:32:55'
-reward_661:
-  subject: Reward 661
-  team: ensihaka
-  amount: 20
-  created_at: '2015-08-04 21:23:55'
-reward_662:
-  subject: Reward 662
-  team: akinawa
-  amount: 2
-  created_at: '2015-08-04 21:16:55'
-reward_663:
-  subject: Reward 663
-  team: akinawa
-  amount: 16
-  created_at: '2015-08-04 20:55:55'
-reward_664:
-  subject: Reward 664
-  team: akinawa
-  amount: 21
-  created_at: '2015-08-04 20:36:55'
-reward_665:
-  subject: Reward 665
-  team: akinawa
-  amount: 46
-  created_at: '2015-08-04 20:13:55'
-reward_666:
-  subject: Reward 666
-  team: akinawa
-  amount: 24
-  created_at: '2015-08-04 20:06:55'
-reward_667:
-  subject: Reward 667
-  team: kawabunga
-  amount: 37
-  created_at: '2015-08-04 20:00:55'
-reward_668:
-  subject: Reward 668
-  team: kawabunga
-  amount: 18
-  created_at: '2015-08-04 19:59:55'
-reward_669:
-  subject: Reward 669
-  team: ensihaka
-  amount: 40
-  created_at: '2015-08-04 19:36:55'
-reward_670:
-  subject: Reward 670
-  team: agario
-  amount: 43
-  created_at: '2015-08-04 19:14:55'
-reward_671:
-  subject: Reward 671
-  team: kawabunga
-  amount: 10
-  created_at: '2015-08-04 19:08:55'
-reward_672:
-  subject: Reward 672
-  team: kawabunga
-  amount: 0
-  created_at: '2015-08-04 19:05:55'
-reward_673:
-  subject: Reward 673
-  team: ensihaka
-  amount: 48
-  created_at: '2015-08-04 19:04:55'
-reward_674:
-  subject: Reward 674
-  team: akinawa
-  amount: 16
-  created_at: '2015-08-04 18:43:55'
-reward_675:
-  subject: Reward 675
-  team: akinawa
-  amount: 12
-  created_at: '2015-08-04 18:29:55'
-reward_676:
-  subject: Reward 676
-  team: ensihaka
-  amount: 48
-  created_at: '2015-08-04 18:18:55'
-reward_677:
-  subject: Reward 677
-  team: kawabunga
-  amount: 33
-  created_at: '2015-08-04 18:13:55'
-reward_678:
-  subject: Reward 678
-  team: kawabunga
-  amount: 19
-  created_at: '2015-08-04 18:01:55'
-reward_679:
-  subject: Reward 679
-  team: ensihaka
-  amount: 13
-  created_at: '2015-08-04 17:34:55'
-reward_680:
-  subject: Reward 680
-  team: agario
-  amount: 23
-  created_at: '2015-08-04 17:23:55'
-reward_681:
-  subject: Reward 681
-  team: ensihaka
-  amount: 41
-  created_at: '2015-08-04 17:13:55'
-reward_682:
-  subject: Reward 682
-  team: akinawa
-  amount: 14
-  created_at: '2015-08-04 16:48:55'
-reward_683:
-  subject: Reward 683
-  team: agario
-  amount: 45
-  created_at: '2015-08-04 16:19:55'
-reward_684:
-  subject: Reward 684
-  team: ensihaka
-  amount: 17
-  created_at: '2015-08-04 16:17:55'
-reward_685:
-  subject: Reward 685
-  team: agario
-  amount: 7
-  created_at: '2015-08-04 15:58:55'
-reward_686:
-  subject: Reward 686
-  team: agario
-  amount: 41
-  created_at: '2015-08-04 15:55:55'
-reward_687:
-  subject: Reward 687
-  team: ensihaka
-  amount: 44
-  created_at: '2015-08-04 15:43:55'
-reward_688:
-  subject: Reward 688
-  team: agario
-  amount: 26
-  created_at: '2015-08-04 15:39:55'
-reward_689:
-  subject: Reward 689
-  team: agario
-  amount: 15
-  created_at: '2015-08-04 15:13:55'
-reward_690:
-  subject: Reward 690
-  team: akinawa
-  amount: 38
-  created_at: '2015-08-04 14:56:55'
-reward_691:
-  subject: Reward 691
-  team: ensihaka
-  amount: 44
-  created_at: '2015-08-04 14:35:55'
-reward_692:
-  subject: Reward 692
-  team: agario
-  amount: 16
-  created_at: '2015-08-04 14:17:55'
-reward_693:
-  subject: Reward 693
-  team: agario
-  amount: 21
-  created_at: '2015-08-04 14:13:55'
-reward_694:
-  subject: Reward 694
-  team: kawabunga
-  amount: 15
-  created_at: '2015-08-04 13:53:55'
-reward_695:
-  subject: Reward 695
-  team: agario
-  amount: 10
-  created_at: '2015-08-04 13:42:55'
-reward_696:
-  subject: Reward 696
-  team: kawabunga
-  amount: 32
-  created_at: '2015-08-04 13:35:55'
-reward_697:
-  subject: Reward 697
-  team: agario
-  amount: 4
-  created_at: '2015-08-04 13:18:55'
-reward_698:
-  subject: Reward 698
-  team: kawabunga
-  amount: 17
-  created_at: '2015-08-04 12:50:55'
-reward_699:
-  subject: Reward 699
-  team: ensihaka
-  amount: 23
-  created_at: '2015-08-04 12:21:55'
-reward_700:
-  subject: Reward 700
-  team: agario
-  amount: 38
-  created_at: '2015-08-04 11:52:55'
-reward_701:
-  subject: Reward 701
-  team: ensihaka
-  amount: 47
-  created_at: '2015-08-04 11:33:55'
-reward_702:
-  subject: Reward 702
-  team: akinawa
-  amount: 41
-  created_at: '2015-08-04 11:17:55'
-reward_703:
-  subject: Reward 703
-  team: ensihaka
-  amount: 17
-  created_at: '2015-08-04 10:50:55'
-reward_704:
-  subject: Reward 704
-  team: kawabunga
-  amount: 23
-  created_at: '2015-08-04 10:23:55'
-reward_705:
-  subject: Reward 705
-  team: akinawa
-  amount: 22
-  created_at: '2015-08-04 10:05:55'
-reward_706:
-  subject: Reward 706
-  team: kawabunga
-  amount: 34
-  created_at: '2015-08-04 09:42:55'
-reward_707:
-  subject: Reward 707
-  team: kawabunga
-  amount: 33
-  created_at: '2015-08-04 09:37:55'
-reward_708:
-  subject: Reward 708
-  team: ensihaka
-  amount: 20
-  created_at: '2015-08-04 09:15:55'
-reward_709:
-  subject: Reward 709
-  team: akinawa
-  amount: 14
-  created_at: '2015-08-04 08:58:55'
-reward_710:
-  subject: Reward 710
-  team: ensihaka
-  amount: 36
-  created_at: '2015-08-04 08:35:55'
-reward_711:
-  subject: Reward 711
-  team: ensihaka
-  amount: 34
-  created_at: '2015-08-04 08:34:55'
-reward_712:
-  subject: Reward 712
-  team: ensihaka
-  amount: 49
-  created_at: '2015-08-04 08:26:55'
-reward_713:
-  subject: Reward 713
-  team: ensihaka
-  amount: 32
-  created_at: '2015-08-04 08:17:55'
-reward_714:
-  subject: Reward 714
-  team: akinawa
-  amount: 1
-  created_at: '2015-08-04 07:50:55'
-reward_715:
-  subject: Reward 715
-  team: ensihaka
-  amount: 41
-  created_at: '2015-08-04 07:44:55'
-reward_716:
-  subject: Reward 716
-  team: akinawa
-  amount: 29
-  created_at: '2015-08-04 07:36:55'
-reward_717:
-  subject: Reward 717
-  team: agario
-  amount: 4
-  created_at: '2015-08-04 07:19:55'
-reward_718:
-  subject: Reward 718
-  team: kawabunga
-  amount: 46
-  created_at: '2015-08-04 07:07:55'
-reward_719:
-  subject: Reward 719
-  team: kawabunga
-  amount: 10
-  created_at: '2015-08-04 07:01:55'
-reward_720:
-  subject: Reward 720
-  team: ensihaka
-  amount: 21
-  created_at: '2015-08-04 06:38:55'
-reward_721:
-  subject: Reward 721
-  team: ensihaka
-  amount: 8
-  created_at: '2015-08-04 06:12:55'
-reward_722:
-  subject: Reward 722
-  team: agario
-  amount: 14
-  created_at: '2015-08-04 06:06:55'
-reward_723:
-  subject: Reward 723
-  team: ensihaka
-  amount: 34
-  created_at: '2015-08-04 05:58:55'
-reward_724:
-  subject: Reward 724
-  team: akinawa
-  amount: 2
-  created_at: '2015-08-04 05:51:55'
-reward_725:
-  subject: Reward 725
-  team: agario
-  amount: 39
-  created_at: '2015-08-04 05:33:55'
-reward_726:
-  subject: Reward 726
-  team: akinawa
-  amount: 8
-  created_at: '2015-08-04 05:31:55'
-reward_727:
-  subject: Reward 727
-  team: akinawa
-  amount: 15
-  created_at: '2015-08-04 05:30:55'
-reward_728:
-  subject: Reward 728
-  team: agario
-  amount: 2
-  created_at: '2015-08-04 05:20:55'
-reward_729:
-  subject: Reward 729
-  team: kawabunga
-  amount: 17
-  created_at: '2015-08-04 04:58:55'
-reward_730:
-  subject: Reward 730
-  team: ensihaka
-  amount: 29
-  created_at: '2015-08-04 04:39:55'
-reward_731:
-  subject: Reward 731
-  team: kawabunga
-  amount: 19
-  created_at: '2015-08-04 04:20:55'
-reward_732:
-  subject: Reward 732
-  team: kawabunga
-  amount: 45
-  created_at: '2015-08-04 03:54:55'
-reward_733:
-  subject: Reward 733
-  team: kawabunga
-  amount: 41
-  created_at: '2015-08-04 03:53:55'
-reward_734:
-  subject: Reward 734
-  team: kawabunga
-  amount: 49
-  created_at: '2015-08-04 03:30:55'
-reward_735:
-  subject: Reward 735
-  team: kawabunga
-  amount: 36
-  created_at: '2015-08-04 03:21:55'
-reward_736:
-  subject: Reward 736
-  team: agario
-  amount: 39
-  created_at: '2015-08-04 03:09:55'
-reward_737:
-  subject: Reward 737
-  team: kawabunga
-  amount: 41
-  created_at: '2015-08-04 02:40:55'
-reward_738:
-  subject: Reward 738
-  team: kawabunga
-  amount: 6
-  created_at: '2015-08-04 02:17:55'
-reward_739:
-  subject: Reward 739
-  team: agario
-  amount: 49
-  created_at: '2015-08-04 02:01:55'
-reward_740:
-  subject: Reward 740
-  team: akinawa
-  amount: 36
-  created_at: '2015-08-04 01:43:55'
-reward_741:
-  subject: Reward 741
-  team: ensihaka
-  amount: 42
-  created_at: '2015-08-04 01:28:55'
-reward_742:
-  subject: Reward 742
-  team: kawabunga
-  amount: 12
-  created_at: '2015-08-04 01:02:55'
-reward_743:
-  subject: Reward 743
-  team: akinawa
-  amount: 20
-  created_at: '2015-08-04 00:38:55'
-reward_744:
-  subject: Reward 744
-  team: akinawa
-  amount: 18
-  created_at: '2015-08-04 00:22:55'
-reward_745:
-  subject: Reward 745
-  team: akinawa
-  amount: 48
-  created_at: '2015-08-04 00:06:55'
-reward_746:
-  subject: Reward 746
-  team: ensihaka
-  amount: 23
-  created_at: '2015-08-03 23:49:55'
-reward_747:
-  subject: Reward 747
-  team: ensihaka
-  amount: 48
-  created_at: '2015-08-03 23:23:55'
-reward_748:
-  subject: Reward 748
-  team: ensihaka
-  amount: 35
-  created_at: '2015-08-03 23:12:55'
-reward_749:
-  subject: Reward 749
-  team: akinawa
-  amount: 43
-  created_at: '2015-08-03 22:51:55'
-reward_750:
-  subject: Reward 750
-  team: akinawa
-  amount: 13
-  created_at: '2015-08-03 22:28:55'
-reward_751:
-  subject: Reward 751
-  team: akinawa
-  amount: 46
-  created_at: '2015-08-03 22:06:55'
-reward_752:
-  subject: Reward 752
-  team: kawabunga
-  amount: 13
-  created_at: '2015-08-03 21:55:55'
-reward_753:
-  subject: Reward 753
-  team: agario
-  amount: 31
-  created_at: '2015-08-03 21:38:55'
-reward_754:
-  subject: Reward 754
-  team: ensihaka
-  amount: 49
-  created_at: '2015-08-03 21:18:55'
-reward_755:
-  subject: Reward 755
-  team: ensihaka
-  amount: 17
-  created_at: '2015-08-03 20:51:55'
-reward_756:
-  subject: Reward 756
-  team: ensihaka
-  amount: 15
-  created_at: '2015-08-03 20:39:55'
-reward_757:
-  subject: Reward 757
-  team: akinawa
-  amount: 32
-  created_at: '2015-08-03 20:35:55'
-reward_758:
-  subject: Reward 758
-  team: ensihaka
-  amount: 49
-  created_at: '2015-08-03 20:31:55'
-reward_759:
-  subject: Reward 759
-  team: akinawa
-  amount: 48
-  created_at: '2015-08-03 20:09:55'
-reward_760:
-  subject: Reward 760
-  team: kawabunga
-  amount: 35
-  created_at: '2015-08-03 19:47:55'
-reward_761:
-  subject: Reward 761
-  team: ensihaka
-  amount: 28
-  created_at: '2015-08-03 19:39:55'
-reward_762:
-  subject: Reward 762
-  team: agario
-  amount: 8
-  created_at: '2015-08-03 19:19:55'
-reward_763:
-  subject: Reward 763
-  team: agario
-  amount: 4
-  created_at: '2015-08-03 18:56:55'
-reward_764:
-  subject: Reward 764
-  team: agario
-  amount: 0
-  created_at: '2015-08-03 18:30:55'
-reward_765:
-  subject: Reward 765
-  team: akinawa
-  amount: 9
-  created_at: '2015-08-03 18:05:55'
-reward_766:
-  subject: Reward 766
-  team: ensihaka
-  amount: 12
-  created_at: '2015-08-03 17:38:55'
-reward_767:
-  subject: Reward 767
-  team: ensihaka
-  amount: 30
-  created_at: '2015-08-03 17:13:55'
-reward_768:
-  subject: Reward 768
-  team: akinawa
-  amount: 38
-  created_at: '2015-08-03 16:46:55'
-reward_769:
-  subject: Reward 769
-  team: agario
-  amount: 20
-  created_at: '2015-08-03 16:42:55'
-reward_770:
-  subject: Reward 770
-  team: agario
-  amount: 42
-  created_at: '2015-08-03 16:15:55'
-reward_771:
-  subject: Reward 771
-  team: ensihaka
-  amount: 42
-  created_at: '2015-08-03 15:51:55'
-reward_772:
-  subject: Reward 772
-  team: kawabunga
-  amount: 18
-  created_at: '2015-08-03 15:37:55'
-reward_773:
-  subject: Reward 773
-  team: agario
-  amount: 25
-  created_at: '2015-08-03 15:32:55'
-reward_774:
-  subject: Reward 774
-  team: agario
-  amount: 45
-  created_at: '2015-08-03 15:23:55'
-reward_775:
-  subject: Reward 775
-  team: ensihaka
-  amount: 0
-  created_at: '2015-08-03 15:17:55'
-reward_776:
-  subject: Reward 776
-  team: kawabunga
-  amount: 8
-  created_at: '2015-08-03 14:51:55'
-reward_777:
-  subject: Reward 777
-  team: akinawa
-  amount: 0
-  created_at: '2015-08-03 14:32:55'
-reward_778:
-  subject: Reward 778
-  team: agario
-  amount: 18
-  created_at: '2015-08-03 14:19:55'
-reward_779:
-  subject: Reward 779
-  team: kawabunga
-  amount: 20
-  created_at: '2015-08-03 14:11:55'
-reward_780:
-  subject: Reward 780
-  team: ensihaka
-  amount: 6
-  created_at: '2015-08-03 13:54:55'
-reward_781:
-  subject: Reward 781
-  team: akinawa
-  amount: 40
-  created_at: '2015-08-03 13:46:55'
-reward_782:
-  subject: Reward 782
-  team: akinawa
-  amount: 24
-  created_at: '2015-08-03 13:17:55'
-reward_783:
-  subject: Reward 783
-  team: agario
-  amount: 16
-  created_at: '2015-08-03 12:50:55'
-reward_784:
-  subject: Reward 784
-  team: ensihaka
-  amount: 16
-  created_at: '2015-08-03 12:31:55'
-reward_785:
-  subject: Reward 785
-  team: ensihaka
-  amount: 44
-  created_at: '2015-08-03 12:19:55'
-reward_786:
-  subject: Reward 786
-  team: agario
-  amount: 9
-  created_at: '2015-08-03 12:04:55'
-reward_787:
-  subject: Reward 787
-  team: agario
-  amount: 46
-  created_at: '2015-08-03 11:49:55'
-reward_788:
-  subject: Reward 788
-  team: kawabunga
-  amount: 38
-  created_at: '2015-08-03 11:26:55'
-reward_789:
-  subject: Reward 789
-  team: kawabunga
-  amount: 42
-  created_at: '2015-08-03 11:15:55'
-reward_790:
-  subject: Reward 790
-  team: agario
-  amount: 44
-  created_at: '2015-08-03 11:08:55'
-reward_791:
-  subject: Reward 791
-  team: akinawa
-  amount: 20
-  created_at: '2015-08-03 10:57:55'
-reward_792:
-  subject: Reward 792
-  team: kawabunga
-  amount: 10
-  created_at: '2015-08-03 10:48:55'
-reward_793:
-  subject: Reward 793
-  team: kawabunga
-  amount: 40
-  created_at: '2015-08-03 10:35:55'
-reward_794:
-  subject: Reward 794
-  team: agario
-  amount: 42
-  created_at: '2015-08-03 10:33:55'
-reward_795:
-  subject: Reward 795
-  team: agario
-  amount: 48
-  created_at: '2015-08-03 10:31:55'
-reward_796:
-  subject: Reward 796
-  team: agario
-  amount: 14
-  created_at: '2015-08-03 10:25:55'
-reward_797:
-  subject: Reward 797
-  team: akinawa
-  amount: 22
-  created_at: '2015-08-03 10:03:55'
-reward_798:
-  subject: Reward 798
-  team: akinawa
-  amount: 46
-  created_at: '2015-08-03 09:41:55'
-reward_799:
-  subject: Reward 799
-  team: akinawa
-  amount: 3
-  created_at: '2015-08-03 09:25:55'
+  created_at: '2015-08-03 17:16:52'
