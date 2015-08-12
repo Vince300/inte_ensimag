@@ -61,16 +61,8 @@ class HomeController < ApplicationController
 
   # GET /events
   def events
-    response.headers['Content-Type'] = 'text/event-stream'
-    sse = SSE.new(response.stream, retry: 300)
-
-    Team.listen_for_changes do |event_name|
-      sse.write(event_name, event: event_name)
-    end
-  rescue IOError
-    # Client disconnected
-  ensure
-    response.stream.close
+    # This method is a placeholder for the node servers which answers the SSE request
+    render nothing: true
   end
 
   # GET /rewards

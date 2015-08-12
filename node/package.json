@@ -1,0 +1,11 @@
+{
+  "name": "inte-ensimag-event-listener",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "pg": "4.4.1",
+    "npmlog": "1.2.1"
+  }
+}
