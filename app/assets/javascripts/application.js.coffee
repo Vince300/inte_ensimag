@@ -5,8 +5,7 @@
 # = require bootstrap
 # = require highcharts
 # = require highcharts_fr
-
-<% url = InteEnsimag::Application.routes.url_helpers %>
+# = require js-routes
 
 (($) ->
   $ ->
@@ -14,7 +13,7 @@
     $chart = $('#chart-container')
     if $chart.get 0
       # We are on the homepage, start listening for events
-      es = new EventSource('<%= url.events_path %>')
+      es = new EventSource(Routes.event_path())
       es.addEventListener 'teams_changed', (e) ->
         window.reloadChart()
         window.reloadTeams()
@@ -29,7 +28,7 @@
       $chart.addClass('loading').parents('.row').removeClass('hidden')
 
       #  Load data via AJAX
-      $.get '<%= url.stats_path(:json) %>', null, (data) ->
+      $.get Routes.stats_path(format: 'json'), null, (data) ->
         # Remove throbber and initialize highcharts
         $chart.removeClass('loading').highcharts
           series: data.series
@@ -51,7 +50,7 @@
               textTransform: 'uppercase'
 
   window.reloadTeams = ->
-    $.get '<%= url.teams_path(:json) %>', null, (data) ->
+    $.get Routes.teams_path(format: 'json'), null, (data) ->
       $('.team').each ->
         $this = $(this)
         team = data[$this.data('team-id')]
@@ -63,14 +62,14 @@
   window.reloadChart = ->
     chart = $('#chart-container').highcharts()
     chart.showLoading()
-    $.get '<%= url.stats_path(:json) %>', null, (data) ->
+    $.get Routes.teams_path(format: 'json'), null, (data) ->
       for series, i in data.series
         chart.series[i].update(series, false)
       chart.hideLoading()
       chart.redraw()
 
   window.reloadRewards = ->
-    $.get '<%= url.rewards_path %>', null, (code) ->
+    $.get Routes.rewards_path(), null, (code) ->
       $('#last-rewards').html(code)
 
 )(jQuery)

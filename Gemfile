@@ -55,7 +55,10 @@ gem 'bootstrap-sass-extras'
 gem 'chroma'
 
 # Puma for development
-gem 'puma', '2.12.3'
+gem 'puma', '2.12.3', group: :development
+
+# URL routing for javascript
+gem "js-routes"
 
 # Misc
 gem 'tzinfo-data'
