@@ -23,7 +23,7 @@ production:
   adapter: postgresql
   encoding: unicode
   database: inte-ensimag
-  pool: 5
+  pool: 16
   username: inteensimag
   password: jmq153ba32
   host: localhost
