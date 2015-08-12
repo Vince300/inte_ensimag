@@ -13,7 +13,7 @@
     $chart = $('#chart-container')
     if $chart.get 0
       # We are on the homepage, start listening for events
-      es = new EventSource(Routes.event_path())
+      es = new EventSource(Routes.events_path())
       es.addEventListener 'teams_changed', (e) ->
         window.reloadChart()
         window.reloadTeams()
