@@ -1,6 +1,10 @@
 Rails.application.routes.draw do
   get '/teams' => "home#teams"
   get '/stats' => "home#stats"
+  get '/rewards' => "home#rewards"
+
+  # Event streaming
+  get '/events' => "home#events"
 
   # Admin routes, require authentication
   authenticate :user do

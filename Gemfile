@@ -54,6 +54,9 @@ gem 'bootstrap-sass-extras'
 # Color manipulation
 gem 'chroma'
 
+# Puma for development
+gem 'puma', '2.12.3'
+
 # Misc
 gem 'tzinfo-data'
 

@@ -67,6 +67,22 @@ SQL
     return result
   end
 
+  # Event notification
+  def self.notify_change
+    connection.execute "NOTIFY teams, 'teams_changed'"
+  end
+
+  def self.listen_for_changes
+    connection.execute "LISTEN teams"
+    loop do
+      connection.raw_connection.wait_for_notify do |event, pid, event_name|
+        yield event_name
+      end
+    end
+  ensure
+    connection.execute "UNLISTEN teams"
+  end
+
   # Rewards relation
   has_many :rewards
 end

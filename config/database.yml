@@ -2,7 +2,7 @@ development:
   adapter: postgresql
   encoding: unicode
   database: inte-ensimag-development
-  pool: 5
+  pool: 16
   username: railsdev
   password: railsdev
   host: localhost

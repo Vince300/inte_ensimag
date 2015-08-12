@@ -8,37 +8,45 @@
 
 (($) ->
   $ ->
-    # Initialize teams
-    $('#teams-container').mixItUp
-      selectors:
-        target: '.team'
-
     # Initialize chart
-    #  Show a throbber icon
-    $('#chart-container').addClass('loading')
-    $('#chart-container').parents('.row').removeClass('hidden')
+    $chart = $('#chart-container')
+    if $chart.get 0
+      # We are on the homepage, start listening for events
+      es = new EventSource('/events')
+      es.addEventListener 'teams_changed', (e) ->
+        window.reloadChart()
+        window.reloadTeams()
+        window.reloadRewards()
 
-    #  Load data via AJAX
-    $.get '/stats.json', null, (data) ->
-      # Remove throbber and initialize highcharts
-      $('#chart-container').removeClass('loading').highcharts
-        series: data.series
-        title:
-          text: ''
-        xAxis:
-          type: 'datetime'
+      # Initialize teams
+      $('#teams-container').mixItUp
+        selectors:
+          target: '.team'
+
+      #  Show a throbber icon
+      $chart.addClass('loading').parents('.row').removeClass('hidden')
+
+      #  Load data via AJAX
+      $.get '/stats.json', null, (data) ->
+        # Remove throbber and initialize highcharts
+        $chart.removeClass('loading').highcharts
+          series: data.series
           title:
-            text: 'Date'
-        yAxis:
-          min: 0
-          title:
-            text: 'Points'
-        legend:
-          itemStyle:
-            fontFamily: 'sf_ironsides'
-            fontWeight: 'normal'
-            fontSize: '25pt'
-            textTransform: 'uppercase'
+            text: ''
+          xAxis:
+            type: 'datetime'
+            title:
+              text: 'Date'
+          yAxis:
+            min: 0
+            title:
+              text: 'Points'
+          legend:
+            itemStyle:
+              fontFamily: 'sf_ironsides'
+              fontWeight: 'normal'
+              fontSize: '25pt'
+              textTransform: 'uppercase'
 
   window.reloadTeams = ->
     $.get '/teams.json', null, (data) ->
@@ -52,11 +60,15 @@
 
   window.reloadChart = ->
     chart = $('#chart-container').highcharts()
-    if chart
-      chart.showLoading()
-      $.get '/stats.json', null, (data) ->
-        for series, i in data.series
-          chart.series[i].update(series, false)
-        chart.hideLoading()
-        chart.redraw()
+    chart.showLoading()
+    $.get '/stats.json', null, (data) ->
+      for series, i in data.series
+        chart.series[i].update(series, false)
+      chart.hideLoading()
+      chart.redraw()
+
+  window.reloadRewards = ->
+    $.get '/rewards', null, (code) ->
+      $('#last-rewards').html(code)
+
 )(jQuery)
