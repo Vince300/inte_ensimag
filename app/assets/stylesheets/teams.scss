@@ -38,3 +38,15 @@
     }
   }
 }
+
+span.team-square {
+  display: inline-block;
+  width: 16px;
+  height: 16px;
+  -webkit-box-shadow: inset 0px 0px 5px 0px rgba(0, 0, 0, 0.4);
+  box-shadow: inset 0px 0px 5px 0px rgba(0, 0, 0, 0.4);
+  border: 1px solid #ccc;
+  vertical-align: middle;
+  margin-top: -2px;
+  margin-right: 5px;
+}

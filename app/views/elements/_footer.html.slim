@@ -4,6 +4,10 @@ footer
     .col-lg-6
       ul
         - if user_signed_in?
-          li= link_to "Déconnexion", destroy_user_session_path(redirect_to: URI(request.original_url).path), method: :delete
+          - if current_page? admin_path
+            li= link_to "Accueil", root_path
+          - else
+            li= link_to "Admin", admin_path
+          li= link_to "Déconnexion", destroy_user_session_path, method: :delete
         - else
-          li= link_to "Connexion", new_user_session_path(redirect_to: URI(request.original_url).path)
+          li= link_to "Connexion", new_user_session_path

@@ -2,6 +2,12 @@ Rails.application.routes.draw do
   get '/teams' => "home#teams"
   get '/stats' => "home#stats"
 
+  # Admin routes, require authentication
+  authenticate :user do
+    get '/admin' => "home#admin",    as: :admin
+    post '/points' => "home#points", as: :points
+  end
+
   # Application homepage
   root 'home#index'
 

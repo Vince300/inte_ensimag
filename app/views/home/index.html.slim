@@ -6,10 +6,11 @@
     #teams-container
       - @teams.each do |team|
         .col-sm-3 class="team team-#{team.to_param}" data-team-id="#{team.to_param}" data-team-score="#{team.current_score}" data-team-rank="#{team.rank}"
+          .details
+            h2= team.name
           .logo
             = image_tag "logo_mask.png"
           .details
-            h2= team.name
             .position= t("inte.position.#{team.rank}")
             .score= t('inte.points', count: team.current_score)
 

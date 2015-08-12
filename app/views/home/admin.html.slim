@@ -1,0 +1,31 @@
+- content_for :head
+  = stylesheet_link_tag '/teams.css'
+
+.container
+  .row
+    h1.page-header Administration - Intégration Ensimag 2015
+
+  .row
+    = form_tag points_path do
+      / Team selection button
+      .form-group
+        .btn-group.input-group.btn-group-justified data-toggle="buttons"
+          - @teams.each do |team|
+            label.btn.btn-default class="team-label-#{team.to_param}"
+              = check_box_tag 'team[]', team.id
+              span.team-square class="team-square-#{team.to_param}"
+              = team.name
+
+      .form-group
+        .btn-group.input-group.btn-group-justified data-toggle="buttons"
+          - 1.upto(5).map { |i| [5 * i].max }.each do |pts|
+            label.btn.btn-default
+              = radio_button_tag 'points', pts
+              = t("inte.points", count: pts)
+
+      .form-group
+        label.control-label Occasion
+        = text_field_tag 'subject', nil, placeholder: 'Optionel. Occasion de la récompense', class: 'text-field form-control'
+
+      .form-group
+        = submit_tag "Ajouter", class: 'btn btn-primary btn-block'
