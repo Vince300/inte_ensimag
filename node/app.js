@@ -36,17 +36,21 @@ pg.connect(pgConString, function(err, client) {
 
 // Setup HTTP streaming
 http.createServer(function(req, res) {
+	var remote = req.headers['X-Forwarded-For'] || req.socket.remoteAddress;
 	if (req.url === "/") {
 		// Start HTTP streaming
 		res.writeHead(200, { "Content-Type": "text/event-stream",
 							 "Cache-Control": "no-cache",
 							 "Connection": "keep-alive" });
 
-		log.info('HTTP', "Added new client " + req.socket.remoteAddress);
+		log.info('HTTP', "Added new client " + remote);
+
+		// Initialize stream
+		res.write("retry: 500\n\n");
 
 		// The function that will handle teams_changed events from the database
 		var handler = function() {
-			res.write("retry: 500\n");
+			log.info('HTTP', "Sending notification to " + remote);
 			res.write("event: teams_changed\n\n");
 		};
 
@@ -55,13 +59,14 @@ http.createServer(function(req, res) {
 
 		// Remove the listener on connection close
 		req.connection.addListener("close", function() {
-			log.info('HTTP', "Closed connection for " + req.socket.remoteAddress);
+			log.info('HTTP', "Closed connection for " + remote);
 			changeEvent.removeListener('teams_changed', handler);
 		});
 	} else {
+		log.warn('HTTP', "Unexpected request for " + req.url + " from " + remote);
 		res.writeHead(404);
 		res.end();
 	}
-}).listen(80, '127.0.0.1');
+}).listen(9292, '127.0.0.1');
 
 log.info('HTTP', "Started listening...");
