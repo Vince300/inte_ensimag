@@ -16,8 +16,8 @@
       # We are on the homepage, start listening for events
 
       # Build the event source path
-      uri = URI(window.location).scheme("ws").port(9292).pathname("/inte/events").toString()
-      ws = new WebSocket(Routes.events_path())
+      uri = URI(window.location).scheme("ws").pathname("/inte/events").toString()
+      ws = new WebSocket(uri)
       ws.onmessage = (e) ->
         if e.data == "teams_changed"
           window.reloadChart()
