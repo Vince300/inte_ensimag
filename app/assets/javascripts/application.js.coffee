@@ -69,7 +69,7 @@
   window.reloadChart = ->
     chart = $('#chart-container').highcharts()
     chart.showLoading()
-    $.get Routes.teams_path(format: 'json'), null, (data) ->
+    $.get Routes.stats_path(format: 'json'), null, (data) ->
       for series, i in data.series
         chart.series[i].update(series, false)
       chart.hideLoading()

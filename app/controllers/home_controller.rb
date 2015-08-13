@@ -1,7 +1,7 @@
 class HomeController < ApplicationController
   include ActionController::Live
 
-  before_action :set_teams, except: [ :stats, :events, :points ]
+  before_action :set_teams, except: [ :stats, :events, :points, :admin ]
   before_action :set_rewards, only: [ :index, :rewards ]
 
   # GET /
@@ -28,6 +28,7 @@ class HomeController < ApplicationController
 
   # GET /admin
   def admin
+    @teams = Team.order(:name)
   end
 
   # POST /points?team=:team
