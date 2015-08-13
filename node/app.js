@@ -45,20 +45,24 @@ http.createServer(function(req, res) {
 
 		log.info('HTTP', "Added new client " + remote);
 
+		var send_ping = function() {
+			log.info('HTTP', "Keeping connection alive for " + remote);
+			res.write("retry: 1000\n");
+			res.write("event: ping\n\n");
+		};
+
 		// Initialize stream
-		res.write("retry: 500\n\n");
+		send_ping();
 
 		// The function that will handle teams_changed events from the database
 		var handler = function() {
 			log.info('HTTP', "Sending notification to " + remote);
+			res.write("retry: 1000\n");
 			res.write("event: teams_changed\n\n");
 		};
 
 		// Ping connection to keep it alive
-		var interval = setInterval(function() {
-			log.info('HTTP', "Keeping connection alive for " + remote);
-			res.write("event: ping\n\n");
-		}, 30000);
+		var interval = setInterval(send_ping, 30000);
 
 		// Setup the event listener
 		changeEvent.on('teams_changed', handler);
