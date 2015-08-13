@@ -15,11 +15,14 @@
       # We are on the homepage, start listening for events
 
       # Build the event source path
-      es = new EventSource(Routes.events_path())
-      es.addEventListener 'teams_changed', (e) ->
-        window.reloadChart()
-        window.reloadTeams()
-        window.reloadRewards()
+      ws = new WebSocket(Routes.events_path())
+      ws.onmessage = (e) ->
+        if e.data == "teams_changed"
+          window.reloadChart()
+          window.reloadTeams()
+          window.reloadRewards()
+        else
+          console.log "Unknown event data " + e.data
 
       # Initialize teams
       $('#teams-container').mixItUp

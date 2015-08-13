@@ -2,7 +2,7 @@ var pg = require('pg'),
 	log = require('npmlog'),
 	EventEmitter = require('events').EventEmitter,
 	util = require('util'),
-	http = require('http');
+	WebSocketServer = require('ws').Server;
 
 // The database connection string
 var pgConString = process.env.INTE_DATABASE_URL;
@@ -34,50 +34,35 @@ pg.connect(pgConString, function(err, client) {
 	client.query("LISTEN teams");
 });
 
-// Setup HTTP streaming
-http.createServer(function(req, res) {
-	var remote = req.headers['x-forwarded-for'] || req.socket.remoteAddress;
+// Setup Websocket server
+var wss = new WebSocketServer({ host: '127.0.0.1', port: 9292 });
+
+log.info('WS', "Started listening...");
+
+wss.on('connection', function(ws) {
+	var req = ws.upgradeReq;
+	var remote = req.headers['x-forwarded-for'] || req.connection.remoteAddress;
+
 	if (req.url === "/inte/events") {
-		// Start HTTP streaming
-		res.writeHead(200, { "Content-Type": "text/event-stream",
-							 "Cache-Control": "no-cache",
-							 "Connection": "keep-alive" });
-
-		log.info('HTTP', "Added new client " + remote);
-
-		var send_ping = function() {
-			log.info('HTTP', "Keeping connection alive for " + remote);
-			res.write("retry: 1000\n");
-			res.write("event: ping\n\n");
-		};
-
-		// Initialize stream
-		send_ping();
+		log.info('WS', "Added new client " + remote);
 
 		// The function that will handle teams_changed events from the database
 		var handler = function() {
 			log.info('HTTP', "Sending notification to " + remote);
-			res.write("retry: 1000\n");
-			res.write("event: teams_changed\n\n");
+			ws.send('teams_changed');
 		};
-
-		// Ping connection to keep it alive
-		var interval = setInterval(send_ping, 30000);
 
 		// Setup the event listener
 		changeEvent.on('teams_changed', handler);
 
 		// Remove the listener on connection close
-		req.connection.addListener("close", function() {
+		ws.on('close', function() {
 			log.info('HTTP', "Closed connection for " + remote);
 			changeEvent.removeListener('teams_changed', handler);
-			clearInterval(interval);
-		});
+		})
 	} else {
 		log.warn('HTTP', "Unexpected request for " + req.url + " from " + remote);
 		res.writeHead(404);
 		res.end();
 	}
-}).listen(9292, '127.0.0.1');
-
-log.info('HTTP', "Started listening...");
+});
