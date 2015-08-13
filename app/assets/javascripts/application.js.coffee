@@ -6,6 +6,7 @@
 # = require highcharts
 # = require highcharts_fr
 # = require js-routes
+# = require URI
 
 (($) ->
   $ ->
@@ -15,6 +16,7 @@
       # We are on the homepage, start listening for events
 
       # Build the event source path
+      uri = URI(window.location).scheme("ws").port(9292).pathname("/inte/events").toString()
       ws = new WebSocket(Routes.events_path())
       ws.onmessage = (e) ->
         if e.data == "teams_changed"
