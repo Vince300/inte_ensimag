@@ -37,7 +37,7 @@ pg.connect(pgConString, function(err, client) {
 // Setup HTTP streaming
 http.createServer(function(req, res) {
 	var remote = req.headers['x-forwarded-for'] || req.socket.remoteAddress;
-	if (req.url === "/") {
+	if (req.url === "/inte/events") {
 		// Start HTTP streaming
 		res.writeHead(200, { "Content-Type": "text/event-stream",
 							 "Cache-Control": "no-cache",
@@ -62,6 +62,10 @@ http.createServer(function(req, res) {
 			log.info('HTTP', "Closed connection for " + remote);
 			changeEvent.removeListener('teams_changed', handler);
 		});
+	} else if (req.url === "/init") {
+		log.info('HTTP', "Got /init request");
+		res.writeHead(200);
+		res.end();
 	} else {
 		log.warn('HTTP', "Unexpected request for " + req.url + " from " + remote);
 		res.writeHead(404);
