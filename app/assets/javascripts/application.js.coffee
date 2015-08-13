@@ -6,7 +6,6 @@
 # = require highcharts
 # = require highcharts_fr
 # = require js-routes
-# = require URI
 
 (($) ->
   $ ->
@@ -16,8 +15,7 @@
       # We are on the homepage, start listening for events
 
       # Build the event source path
-      uri = URI(window.location).port(9292).pathname("/inte/events").toString()
-      es = new EventSource(uri)
+      es = new EventSource(Routes.events_path())
       es.addEventListener 'teams_changed', (e) ->
         window.reloadChart()
         window.reloadTeams()

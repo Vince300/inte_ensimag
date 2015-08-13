@@ -54,6 +54,12 @@ http.createServer(function(req, res) {
 			res.write("event: teams_changed\n\n");
 		};
 
+		// Ping connection to keep it alive
+		var interval = setInterval(function() {
+			log.info('HTTP', "Keeping connection alive for " + remote);
+			res.write("event: ping\n\n");
+		}, 30000);
+
 		// Setup the event listener
 		changeEvent.on('teams_changed', handler);
 
@@ -61,11 +67,8 @@ http.createServer(function(req, res) {
 		req.connection.addListener("close", function() {
 			log.info('HTTP', "Closed connection for " + remote);
 			changeEvent.removeListener('teams_changed', handler);
+			clearInterval(interval);
 		});
-	} else if (req.url === "/init") {
-		log.info('HTTP', "Got /init request");
-		res.writeHead(200);
-		res.end();
 	} else {
 		log.warn('HTTP', "Unexpected request for " + req.url + " from " + remote);
 		res.writeHead(404);
