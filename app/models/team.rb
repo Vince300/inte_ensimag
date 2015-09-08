@@ -51,7 +51,7 @@ SQL
 
     # Add last entry for today if necessary
     unless min_date.nil?
-      today = Date.today
+      today = [ Date.today, Date.parse('2015-09-29') ].min
       result.each do |k, v|
         if v[:data].length == 0 or v[:data][0][0] != min_date then
           # No points for this one yet
