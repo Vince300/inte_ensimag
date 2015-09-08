@@ -18,14 +18,14 @@
 
       .form-group
         .btn-group.input-group.btn-group-justified data-toggle="buttons"
-          - 1.upto(5).map { |i| [5 * i].max }.each do |pts|
+          - [ 10, 25, 50, 100, 200, 500 ].each do |pts|
             label.btn.btn-default
               = radio_button_tag 'points', pts
               = t("inte.points", count: pts)
 
       .form-group
         label.control-label Occasion
-        = text_field_tag 'subject', nil, placeholder: 'Optionel. Occasion de la récompense', class: 'text-field form-control'
+        = text_field_tag 'subject', nil, placeholder: 'Optionel. Occasion de la récompense, par exemple Ambiance K\'Fet des îles', class: 'text-field form-control'
 
       .form-group
         = submit_tag "Ajouter", class: 'btn btn-primary btn-block'
