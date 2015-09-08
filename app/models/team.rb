@@ -39,28 +39,26 @@ SQL
 
     # Execute query and build data set
     result = {}
-    min_date = nil
+    min_date = Date.parse('2015-09-07')
+
     self.connection.select_all(sql).each do |row|
       result[row['team_name']] = { data: [], team_color: row['team_color'] } unless result[row['team_name']]
       if row['day']
         d = row['day'].to_date
-        min_date = d if min_date.nil? or min_date > d
         result[row['team_name']][:data] << [ d, row['total_sum'].to_i ]
       end
     end
 
     # Add last entry for today if necessary
-    unless min_date.nil?
-      today = [ Date.today, Date.parse('2015-09-29') ].min
-      result.each do |k, v|
-        if v[:data].length == 0 or v[:data][0][0] != min_date then
-          # No points for this one yet
-          v[:data].unshift [ min_date, 0 ]
-        end
+    today = [ Date.today, Date.parse('2015-09-29') ].min
+    result.each do |k, v|
+      if v[:data].length == 0 or v[:data][0][0] != min_date then
+        # No points for this one yet
+        v[:data].unshift [ min_date, 0 ]
+      end
 
-        unless v[:data][v[:data].length - 1][0] == today
-          v[:data] << [ today, v[:data][v[:data].length - 1][1] ]
-        end
+      unless v[:data][v[:data].length - 1][0] == today
+        v[:data] << [ today, v[:data][v[:data].length - 1][1] ]
       end
     end
 
