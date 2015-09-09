@@ -5,3 +5,5 @@ ul.list-group
       = "#{t('inte.points_phrase', count: reward.amount)} aux "
       span class="team-label-#{reward.team.to_param}" = reward.team.name
       = " il y a #{time_ago_in_words(reward.created_at, include_seconds: true)} #{if reward.subject.present? then "(#{reward.subject})" end}"
+      - if user_signed_in?
+        = link_to "Annuler", delete_reward_path(reward), data: { confirm: 'Voulez-vous vraiment supprimer la récompense ?' }, method: :delete

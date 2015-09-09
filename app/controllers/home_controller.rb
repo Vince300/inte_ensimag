@@ -73,6 +73,17 @@ class HomeController < ApplicationController
     end
   end
 
+  # DELETE /reward/:id
+  def delete_reward
+    if user_signed_in?
+      reward = Reward.find(params[:id])
+      reward.destroy!
+      redirect_to root_path, flash: { notice: "Récompense annulée" }
+    else
+      redirect_to root_path
+    end
+  end
+
   protected
     def set_teams
       @teams = Team.with_score

@@ -5,6 +5,7 @@ Rails.application.routes.draw do
   get '/teams' => "home#teams", as: :teams
   get '/stats' => "home#stats", as: :stats
   get '/rewards' => "home#rewards", as: :rewards
+  delete '/reward/:id' => 'home#delete_reward', as: :delete_reward
 
   # Event streaming
   get '/events' => "home#events", as: :events
