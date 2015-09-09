@@ -18,7 +18,7 @@
 
       .form-group
         .btn-group.input-group.btn-group-justified data-toggle="buttons"
-          - [ 10, 25, 50, 100, 200, 500 ].each do |pts|
+          - [ 5, 10, 25, 50, 100, 200, 500 ].each do |pts|
             label.btn.btn-default
               = radio_button_tag 'points', pts
               = t("inte.points", count: pts)
