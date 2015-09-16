@@ -41,7 +41,7 @@ class HomeController < ApplicationController
               end
     teams = Team.find params[:team]
 
-    raise "Vous devez indiquer le nombre de points" if points <= 0
+    raise "Vous devez indiquer le nombre de points" if points == 0
 
     teams.each do |team|
       team.rewards.create(amount: points,
