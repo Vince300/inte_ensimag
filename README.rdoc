@@ -1,3 +1,3 @@
 == README
 
-Site pour le comptage de points des équipes de l'intégration 2016 Ensimag.
+Site pour le comptage de points des équipes de l'intégration 2015 Ensimag.
